@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>404 — Page Not Found | Cocolo Travel</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500&family=Noto+Serif+JP:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1714;
+    --ink-light: #6b6560;
+    --ink-faint: #c8c2bc;
+    --paper: #f5f2ee;
+    --paper-dark: #ebe6e0;
+    --accent: #c0392b;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background: var(--paper);
+    color: var(--ink);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  header {
+    background: var(--ink);
+    padding: 16px 36px;
+    display: flex;
+    align-items: center;
+    gap: 13px;
+  }
+
+  .logo-mark {
+    width: 32px; height: 32px;
+    background: var(--accent);
+    border-radius: 4px;
+    display: flex; align-items: center; justify-content: center;
+    font-family: 'Noto Serif JP', serif;
+    font-size: 15px; font-weight: 600; color: white;
+    flex-shrink: 0; text-decoration: none;
+  }
+
+  .logo-text {
+    font-size: 12px; font-weight: 300;
+    letter-spacing: 0.1em; color: #a09890;
+  }
+
+  .logo-text strong {
+    display: block; font-size: 14px; font-weight: 500;
+    letter-spacing: 0.04em; color: #f5f2ee;
+  }
+
+  main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 24px;
+    text-align: center;
+  }
+
+  .kanji {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 0.2em;
+    color: var(--ink-faint);
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+
+  .number {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 96px;
+    font-weight: 600;
+    color: var(--ink);
+    line-height: 1;
+    letter-spacing: -0.02em;
+    margin-bottom: 8px;
+    position: relative;
+    display: inline-block;
+  }
+
+  .number::after {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 3px;
+    background: var(--accent);
+    margin: 20px auto 0;
+  }
+
+  .title {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--ink);
+    margin-top: 28px;
+    margin-bottom: 12px;
+    letter-spacing: 0.02em;
+  }
+
+  .subtitle {
+    font-size: 13px;
+    font-weight: 300;
+    color: var(--ink-light);
+    line-height: 1.8;
+    max-width: 340px;
+    margin-bottom: 40px;
+  }
+
+  .back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 11px 24px;
+    background: var(--ink);
+    color: #f5f2ee;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    transition: background 0.15s;
+  }
+
+  .back-link:hover { background: #2c2826; }
+
+  footer {
+    padding: 20px 36px;
+    border-top: 1px solid var(--paper-dark);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .footer-left {
+    font-size: 11px;
+    color: var(--ink-faint);
+  }
+
+  .footer-right {
+    font-size: 11px;
+    color: var(--ink-faint);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo-mark">C</div>
+  <div class="logo-text">
+    <strong>Cocolo Travel</strong>
+    ここロトラベル合同会社
+  </div>
+</header>
+
+<main>
+  <div class="kanji">ページが見つかりません</div>
+  <div class="number">404</div>
+  <div class="title">Page not found</div>
+  <p class="subtitle">
+    The page you are looking for may have been moved, deleted,
+    or does not exist. Please check the URL and try again.
+  </p>
+  <a class="back-link" href="/">
+    ← Return to homepage
+  </a>
+</main>
+
+<footer>
+  <div class="footer-left">Cocolo Travel Co., Ltd. — Tokyo, Japan</div>
+  <div class="footer-right">www.cocolotravel.com</div>
+</footer>
+
+</body>
+</html>

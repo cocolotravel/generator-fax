@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cocolo Travel — FAX Tools</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Noto+Serif+JP:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1714;
+    --ink-light: #6b6560;
+    --ink-faint: #c8c2bc;
+    --paper: #f5f2ee;
+    --paper-dark: #ebe6e0;
+    --accent: #c0392b;
+    --accent-dark: #922b21;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background: var(--ink);
+    color: var(--paper);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* ── HEADER ── */
+  header {
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    border-bottom: 1px solid rgba(255,255,255,0.07);
+    flex-shrink: 0;
+  }
+
+  .logo-mark {
+    width: 34px; height: 34px;
+    background: var(--accent);
+    border-radius: 4px;
+    display: flex; align-items: center; justify-content: center;
+    font-family: 'Noto Serif JP', serif;
+    font-size: 16px; font-weight: 600; color: white;
+    flex-shrink: 0;
+  }
+
+  .logo-text {
+    font-size: 12px; font-weight: 300;
+    letter-spacing: 0.1em; color: #706b66;
+  }
+
+  .logo-text strong {
+    display: block; font-size: 15px; font-weight: 500;
+    letter-spacing: 0.04em; color: var(--paper);
+  }
+
+  /* ── SPLIT ── */
+  .split {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .panel {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 48px;
+    text-decoration: none;
+    color: inherit;
+    transition: background 0.2s;
+    cursor: pointer;
+    overflow: hidden;
+  }
+
+  .panel:first-child {
+    border-right: 1px solid rgba(255,255,255,0.08);
+  }
+
+  .panel:hover {
+    background: rgba(255,255,255,0.04);
+  }
+
+  .panel:hover .panel-arrow {
+    transform: translateX(6px);
+    opacity: 1;
+  }
+
+  .panel:hover .panel-number {
+    color: var(--accent);
+  }
+
+  /* Number */
+  .panel-number {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 80px;
+    font-weight: 600;
+    color: rgba(255,255,255,0.06);
+    line-height: 1;
+    margin-bottom: 32px;
+    transition: color 0.2s;
+    user-select: none;
+  }
+
+  /* Icon */
+  .panel-icon {
+    font-size: 36px;
+    margin-bottom: 20px;
+    line-height: 1;
+  }
+
+  /* Title */
+  .panel-title-ja {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    margin-bottom: 6px;
+    text-align: center;
+  }
+
+  .panel-title-en {
+    font-size: 11px;
+    font-weight: 300;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin-bottom: 24px;
+    text-align: center;
+  }
+
+  /* Description */
+  .panel-desc {
+    font-size: 13px;
+    font-weight: 300;
+    color: #8a8480;
+    line-height: 1.9;
+    text-align: center;
+    max-width: 280px;
+    margin-bottom: 32px;
+  }
+
+  /* Tags */
+  .panel-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+    justify-content: center;
+    margin-bottom: 36px;
+  }
+
+  .tag {
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    border-radius: 3px;
+    border: 1px solid rgba(255,255,255,0.12);
+    color: rgba(255,255,255,0.5);
+  }
+
+  .tag-accent {
+    border-color: rgba(192,57,43,0.5);
+    color: rgba(192,57,43,0.8);
+    background: rgba(192,57,43,0.06);
+  }
+
+  /* CTA */
+  .panel-cta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.3);
+  }
+
+  .panel-arrow {
+    transition: transform 0.2s, opacity 0.2s;
+    opacity: 0.4;
+  }
+
+  /* Vertical divider label */
+  .split-label {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: var(--ink);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 50%;
+    width: 40px; height: 40px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 11px;
+    font-weight: 500;
+    color: var(--ink-faint);
+    letter-spacing: 0.05em;
+    pointer-events: none;
+    z-index: 10;
+  }
+
+  /* ── FOOTER ── */
+  footer {
+    padding: 16px 40px;
+    border-top: 1px solid rgba(255,255,255,0.07);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+  }
+
+  .footer-left {
+    font-size: 11px;
+    color: #4a4540;
+  }
+
+  .footer-right {
+    font-size: 11px;
+    color: #4a4540;
+  }
+
+  /* Responsive */
+  @media (max-width: 700px) {
+    .split { grid-template-columns: 1fr; }
+    .panel:first-child { border-right: none; border-bottom: 1px solid rgba(255,255,255,0.08); }
+    .split-label { display: none; }
+    .panel-number { font-size: 56px; margin-bottom: 20px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo-mark">C</div>
+  <div class="logo-text">
+    <strong>Cocolo Travel</strong>
+    社内 FAX ツール
+  </div>
+</header>
+
+<div class="split">
+
+  <!-- ── OPTION 1 — Reservation FAX ── -->
+  <a class="panel" href="fax-reservations.html">
+    <div class="panel-number">01</div>
+    <div class="panel-icon">📋</div>
+    <div class="panel-title-ja">予約リクエスト FAX</div>
+    <div class="panel-title-en">Reservation Request</div>
+    <p class="panel-desc">
+      ホテル・旅館への宿泊予約リクエストを作成します。<br>
+      複数の予約をまとめて1通のFAXに含めることができます。
+    </p>
+    <div class="panel-tags">
+      <span class="tag tag-accent">PDF</span>
+      <span class="tag tag-accent">.docx</span>
+      <span class="tag">複数予約対応</span>
+      <span class="tag">453ホテル収録</span>
+    </div>
+    <div class="panel-cta">
+      開く
+      <span class="panel-arrow">→</span>
+    </div>
+  </a>
+
+  <!-- ── OR label ── -->
+  <div class="split-label">or</div>
+
+  <!-- ── OPTION 2 — Free-form FAX ── -->
+  <a class="panel" href="fax-doc.html">
+    <div class="panel-number">02</div>
+    <div class="panel-icon">✍️</div>
+    <div class="panel-title-ja">自由記述 FAX</div>
+    <div class="panel-title-en">Free-form Document</div>
+    <p class="panel-desc">
+      問い合わせ・クレーム・その他の用件など、<br>
+      自由な本文でFAX文書を作成・保存できます。
+    </p>
+    <div class="panel-tags">
+      <span class="tag tag-accent">PDF</span>
+      <span class="tag tag-accent">.docx</span>
+      <span class="tag">自由記述</span>
+      <span class="tag">Nextcloud保存可</span>
+    </div>
+    <div class="panel-cta">
+      開く
+      <span class="panel-arrow">→</span>
+    </div>
+  </a>
+
+</div>
+
+<footer>
+  <div class="footer-left">ここロトラベル合同会社 — 社内ツール</div>
+  <div class="footer-right">fax.cocolotravel.com</div>
+</footer>
+
+</body>
+</html>

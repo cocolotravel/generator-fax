@@ -1,0 +1,2732 @@
+{
+  "hotels": [
+    {
+      "name": "クロスホテル京都",
+      "romaji": "Cross Hotel Kyoto",
+      "tel": "+81-75-231-8831",
+      "fax": ""
+    },
+    {
+      "name": "ホテル呉竹荘高山駅前",
+      "romaji": "Hotel Kuretakeso Takayama Ekimae",
+      "tel": "+81-577-33-7111",
+      "fax": ""
+    },
+    {
+      "name": "ホテルみや離宮",
+      "romaji": "Hotel Miya Rikyu",
+      "tel": "+81-82-944-2111",
+      "fax": ""
+    },
+    {
+      "name": "ベストウェスタンプラス福岡天神南",
+      "romaji": "Best Western Plus Hotel Fino Fukuoka Tenjin",
+      "tel": "+81-92-718-7700",
+      "fax": ""
+    },
+    {
+      "name": "旅館さわや",
+      "romaji": "sawaya",
+      "tel": "+81-75-761-4141",
+      "fax": "+81-75-751-0308"
+    },
+    {
+      "name": "ホテルグレイスリー京都三条",
+      "romaji": "Hotel Gracery Kyoto Sanjo",
+      "tel": "+81-75-222-1111",
+      "fax": ""
+    },
+    {
+      "name": "宿坊 一乗院",
+      "romaji": "Ichijo-In Temple",
+      "tel": "+81-736-56-2214",
+      "fax": "+81-736-56-2264"
+    },
+    {
+      "name": "Byaku Narai",
+      "romaji": "Byaku Narai",
+      "tel": "+81-264-34-3001",
+      "fax": ""
+    },
+    {
+      "name": "旅館 田邊",
+      "romaji": "Ryokan Tanabe",
+      "tel": "+81-577-32-0529",
+      "fax": ""
+    },
+    {
+      "name": "クロスホテル大阪",
+      "romaji": "Cross Hotel Osaka",
+      "tel": "+81-6-6213-8281",
+      "fax": ""
+    },
+    {
+      "name": "ホテルグランヴィア広島",
+      "romaji": "Hotel Granvia Hiroshima",
+      "tel": "+81-82-262-1111",
+      "fax": ""
+    },
+    {
+      "name": "ザ・ゲートホテル両国 by HULIC",
+      "romaji": "The Gate Hotel Ryogoku By Hulic",
+      "tel": "+81-3-5637-7041",
+      "fax": ""
+    },
+    {
+      "name": "信貴山　大本山　千手院",
+      "romaji": "Senjyu-in",
+      "tel": "+81-745-72-4481",
+      "fax": "+81-745-73-9686"
+    },
+    {
+      "name": "トラベロッジ本町大阪",
+      "romaji": "Travelodge Honmachi Osaka",
+      "tel": "+81-6-4963-2196",
+      "fax": ""
+    },
+    {
+      "name": "仙石原温泉 仙郷楼",
+      "romaji": "Senkyoro",
+      "tel": "+81-460-84-8521",
+      "fax": ""
+    },
+    {
+      "name": "ホテル ライトスタイル",
+      "romaji": "Wright Style",
+      "tel": "+81-87-813-2533",
+      "fax": ""
+    },
+    {
+      "name": "ヒルトン 東京",
+      "romaji": "Hilton Tokyo",
+      "tel": "+81-3-3344-5111",
+      "fax": ""
+    },
+    {
+      "name": "リッチモンドホテル成田",
+      "romaji": "Richmond Hotel Narita",
+      "tel": "+81-476-24-6660",
+      "fax": ""
+    },
+    {
+      "name": "和宿多葉喜",
+      "romaji": "Hideaway Tabaki",
+      "tel": "",
+      "fax": ""
+    },
+    {
+      "name": "ススキの原一の湯",
+      "romaji": "Susukinohara Ichinoyu",
+      "tel": "+81-460-86-3331",
+      "fax": ""
+    },
+    {
+      "name": "高野山西禅院",
+      "romaji": "Koyasan Saizen-In",
+      "tel": "+81-736-56-2411",
+      "fax": ""
+    },
+    {
+      "name": "ホテルマイステイズプレミア浜松町",
+      "romaji": "Hotel Mystays Premier Hamamatsucho",
+      "tel": "+81-3-3432-2726",
+      "fax": ""
+    },
+    {
+      "name": "変なホテルエクスプレス大阪 なんば日本橋アネックス",
+      "romaji": "Henn na Hotel Express Osaka Namba Nipponbashi Annex",
+      "tel": "+81-6-6213-8700",
+      "fax": ""
+    },
+    {
+      "name": "THE GATE HOTEL 京都高瀬川 by HULIC",
+      "romaji": "The Gate Hotel Kyoto Takasegawa By Hulic",
+      "tel": "+81-75-256-8955",
+      "fax": ""
+    },
+    {
+      "name": "ホテルマイステイズ京都四条",
+      "romaji": "Hotel Mystays Kyoto Shijo",
+      "tel": "+81-75-283-3939",
+      "fax": ""
+    },
+    {
+      "name": "ダイワロイネットホテル銀座 PREMIER",
+      "romaji": "Daiwa Roynet Hotel Ginza PREMIER",
+      "tel": "+81-3-5159-1380",
+      "fax": ""
+    },
+    {
+      "name": "相鉄フレッサイン 東京京橋",
+      "romaji": "Sotetsu Fresa Inn Tokyo Kyobashi",
+      "tel": "+81-3-5250-2031",
+      "fax": ""
+    },
+    {
+      "name": "the b お茶の水",
+      "romaji": "The B Ochanomizu",
+      "tel": "+81-3-3254-2888",
+      "fax": ""
+    },
+    {
+      "name": "リッチモンドホテル 東京芝",
+      "romaji": "Richmond Hotel Tokyo Shiba",
+      "tel": "+81-50-3183-0414",
+      "fax": "+81-3-5777-7723"
+    },
+    {
+      "name": "御宿 但馬屋",
+      "romaji": "Tajimaya",
+      "tel": "+81-573-69-2048",
+      "fax": ""
+    },
+    {
+      "name": "ブリッジホテル心斎橋",
+      "romaji": "The Bridge Hotel Shinsaibashi",
+      "tel": "+81-6-4963-6501",
+      "fax": ""
+    },
+    {
+      "name": "カンデオホテルズ大阪なんば",
+      "romaji": "Candeo Hotels Osaka Namba",
+      "tel": "+81-6-6212-2200",
+      "fax": ""
+    },
+    {
+      "name": "アーバンホテル京都五条プレミアム",
+      "romaji": "Urban Hotel Kyoto Gojo Premium",
+      "tel": "+81-75-406-1785",
+      "fax": ""
+    },
+    {
+      "name": "Heart'n Tree",
+      "romaji": "Heart'N Tree",
+      "tel": "+81-154-64-2542",
+      "fax": ""
+    },
+    {
+      "name": "ソラリア西鉄ホテル 京都プレミア",
+      "romaji": "Solaria Nishitetsu Hotel Kyoto Premier",
+      "tel": "+81-75-708-5757",
+      "fax": ""
+    },
+    {
+      "name": "ダイワロイネットホテル京都四条烏丸",
+      "romaji": "Daiwa Roynet Hotel Kyoto-Shijokarasuma",
+      "tel": "+81-75-342-1166",
+      "fax": ""
+    },
+    {
+      "name": "シェラトングランドホテル広島",
+      "romaji": "Sheraton Grand Hiroshima Hotel",
+      "tel": "+81-82-262-7111",
+      "fax": ""
+    },
+    {
+      "name": "KOKO HOTEL 京都三条",
+      "romaji": "KOKO HOTEL Kyoto Sanjo",
+      "tel": "+81-75-761-1000",
+      "fax": ""
+    },
+    {
+      "name": "コートヤード・バイ・マリオット 新大阪ステーション",
+      "romaji": "Courtyard By Marriott Shin-Osaka Station",
+      "tel": "+81-6-6350-5701",
+      "fax": ""
+    },
+    {
+      "name": "リーベルホテル大阪",
+      "romaji": "Liber Hotel Osaka",
+      "tel": "+81-6-6462-3333",
+      "fax": ""
+    },
+    {
+      "name": "相鉄グランドフレッサ 大阪なんば",
+      "romaji": "Sotetsu Grand Fresa Osaka - Namba",
+      "tel": "+81-6-7668-2030",
+      "fax": ""
+    },
+    {
+      "name": "ビースポークホテル新宿",
+      "romaji": "Bespoke Hotel Shinjuku",
+      "tel": "+81-3-6278-9559",
+      "fax": ""
+    },
+    {
+      "name": "ホテル ヴィラフォンテーヌ グランド 羽田空港",
+      "romaji": "Hotel Villa Fontaine Grand Haneda Airport",
+      "tel": "+81-3-6459-9770",
+      "fax": ""
+    },
+    {
+      "name": "宿坊 清浄心院",
+      "romaji": "Shojoshin-In Temple",
+      "tel": "+81-736-56-2006",
+      "fax": "+81-736-56-4770"
+    },
+    {
+      "name": "長野 東急REIホテル",
+      "romaji": "Nagano Tokyu Rei Hotel",
+      "tel": "+81-262-23-1090",
+      "fax": "+81-262-29-7770"
+    },
+    {
+      "name": "OMO5京都祇園 by 星野リゾー",
+      "romaji": "OMO5 Kyoto Gion by Hoshino Resorts",
+      "tel": "+81-50-3134-8095",
+      "fax": ""
+    },
+    {
+      "name": "ザ ロイヤルパーク キャンバス 大阪北浜",
+      "romaji": "The Royal Park Canvas - Osaka Kitahama",
+      "tel": "+81-6-6220-1111",
+      "fax": ""
+    },
+    {
+      "name": "MIMARU 京都河原町五条",
+      "romaji": "Mimaru Kyoto Kawaramachi Gojo",
+      "tel": "+81-75-744-6750",
+      "fax": ""
+    },
+    {
+      "name": "プリンス スマート イン 京都三条",
+      "romaji": "Prince Smart Inn Kyoto Sanjo",
+      "tel": "+81-50-3101-9398",
+      "fax": ""
+    },
+    {
+      "name": "星のや東京",
+      "romaji": "HOSHINOYA Tokyo",
+      "tel": "+81-50-3134-8091",
+      "fax": ""
+    },
+    {
+      "name": "箱根料理宿弓庵",
+      "romaji": "Hakone Kyuan",
+      "tel": "+81-460-86-0030",
+      "fax": ""
+    },
+    {
+      "name": "レンブラントホテル大分",
+      "romaji": "Rembrandt Hotel Oita",
+      "tel": "+81-97-545-1040",
+      "fax": ""
+    },
+    {
+      "name": "ホテルマイステイズプレミア赤坂",
+      "romaji": "Hotel Mystays Premier Akasaka",
+      "tel": "+81-3-6229-3280",
+      "fax": ""
+    },
+    {
+      "name": "ダイワロイネットホテル 広島駅前",
+      "romaji": "Daiwa Roynet Hotel Hiroshima-Ekimae",
+      "tel": "+81-82-554-1455",
+      "fax": ""
+    },
+    {
+      "name": "相鉄フレッサイン京都四条烏丸",
+      "romaji": "Sotetsu Fresa Inn Kyoto Shijo Karasuma",
+      "tel": "+81-75-284-2031",
+      "fax": ""
+    },
+    {
+      "name": "ホテルマイステイズ御堂筋本町",
+      "romaji": "Hotel Mystays Midosuji Honmachi",
+      "tel": "+81-6-7652-5370",
+      "fax": ""
+    },
+    {
+      "name": "ダイワロイネットホテル広島",
+      "romaji": "Daiwa Roynet Hotel HIROSHIMA",
+      "tel": "+81-82-545-2955",
+      "fax": ""
+    },
+    {
+      "name": "メルキュール京都ステーション",
+      "romaji": "Mercure Kyoto Station",
+      "tel": "+81-75-343-5533",
+      "fax": ""
+    },
+    {
+      "name": "ナインアワーズ赤坂・スリープラボ",
+      "romaji": "Nine Hours Akasaka",
+      "tel": "+81-50-1807-3087",
+      "fax": ""
+    },
+    {
+      "name": "ハタゴイン関西空港",
+      "romaji": "Hatago Inn Kansai Airport",
+      "tel": "+81-72-458-9011",
+      "fax": ""
+    },
+    {
+      "name": "ゲストハウス本三屋",
+      "romaji": "Guest House Motomiya",
+      "tel": "+81-573-69-2158",
+      "fax": "+81-573-69-2158"
+    },
+    {
+      "name": "ホテルギンモンド京都",
+      "romaji": "Hotel Gimmond Kyoto",
+      "tel": "+81-75-221-4111",
+      "fax": ""
+    },
+    {
+      "name": "魚河岸7070オーシャンビュー",
+      "romaji": "UOGASHI 7070 Ocean View",
+      "tel": "",
+      "fax": ""
+    },
+    {
+      "name": "ホテル サンルート 浅草",
+      "romaji": "Hotel Sunroute Asakusa",
+      "tel": "+81-3-3847-1511",
+      "fax": ""
+    },
+    {
+      "name": "七合目 日の出館",
+      "romaji": "Hinodekan",
+      "tel": "+81-55-524-6522",
+      "fax": "+81-55-522-0396"
+    },
+    {
+      "name": "馬籠茶屋",
+      "romaji": "Magome Chaya",
+      "tel": "+81-573-69-2038",
+      "fax": "+81-50-3488-7844"
+    },
+    {
+      "name": "料理旅館 白梅",
+      "romaji": "Shiraume Ryokan",
+      "tel": "+81-75-561-1459",
+      "fax": ""
+    },
+    {
+      "name": "和の民宿　中",
+      "romaji": "Naoshima Naka",
+      "tel": "+81-90-4894-8100",
+      "fax": ""
+    },
+    {
+      "name": "旅館よしのや",
+      "romaji": "Yoshinoya Ryokan",
+      "tel": "+81-735-42-0101",
+      "fax": ""
+    },
+    {
+      "name": "トーセイホテル ココネ鎌倉",
+      "romaji": "Tosei Hotel Cocone Kamakura",
+      "tel": "+81-467-22-5541",
+      "fax": ""
+    },
+    {
+      "name": "ホテルサンルート銀座",
+      "romaji": "Hotel Sunroute Ginza",
+      "tel": "+81-3-5579-9733",
+      "fax": ""
+    },
+    {
+      "name": "相鉄フレッサイン 広島駅前",
+      "romaji": "Sotetsu Fresa Inn Hiroshima Station",
+      "tel": "+81-82-262-2031",
+      "fax": ""
+    },
+    {
+      "name": "アルティエホテル紀伊田辺",
+      "romaji": "Altier Hotel Kii Tanabe",
+      "tel": "+81-739-81-1111",
+      "fax": ""
+    },
+    {
+      "name": "マイロッジ直島",
+      "romaji": "My Lodge Naoshima",
+      "tel": "+81-87-873-2106",
+      "fax": ""
+    },
+    {
+      "name": "浅草東武ホテル",
+      "romaji": "Asakusa Tobu Hotel",
+      "tel": "+81-3-5809-7320",
+      "fax": ""
+    },
+    {
+      "name": "ダイワロイネットホテル大阪堺筋本町 PREMIER",
+      "romaji": "Daiwa Roynet Hotel Osaka Sakaisuji Honmachi PREMIER",
+      "tel": "+81-6-4256-0655",
+      "fax": ""
+    },
+    {
+      "name": "箱根ホテル小涌園",
+      "romaji": "Hakone Kowakien",
+      "tel": "+81-465-22-5489",
+      "fax": ""
+    },
+    {
+      "name": "Hotel Around TAKAYAMA",
+      "romaji": "Hotel Around Takayama",
+      "tel": "+81-577-36-2811",
+      "fax": ""
+    },
+    {
+      "name": "KUMU 金沢 by THE SHARE HOTELS",
+      "romaji": "Kumu Kanazawa By The Share Hotels",
+      "tel": "+81-76-282-9600",
+      "fax": ""
+    },
+    {
+      "name": "宮島錦水館",
+      "romaji": "Miyajima Kinsuikan",
+      "tel": "+81-82-944-2131",
+      "fax": ""
+    },
+    {
+      "name": "MIMARU大阪 難波STATION",
+      "romaji": "Mimaru Osaka Namba Station",
+      "tel": "+81-6-6567-8237",
+      "fax": ""
+    },
+    {
+      "name": "都シティ 大阪本町",
+      "romaji": "Miyako City Osaka Hommachi",
+      "tel": "+81-6-6263-0385",
+      "fax": ""
+    },
+    {
+      "name": "ホテル京阪 なんば グランデ",
+      "romaji": "Hotel Keihan Namba Grande",
+      "tel": "+81-6-6646-0321",
+      "fax": ""
+    },
+    {
+      "name": "レフ松山市駅",
+      "romaji": "Ref Matsuyama",
+      "tel": "+81-89-915-8111",
+      "fax": ""
+    },
+    {
+      "name": "川口屋城崎リバーサイドホテル",
+      "romaji": "Kawaguchiya Kinosaki Riverside Hotel",
+      "tel": "+81-796-32-2611",
+      "fax": "+81-796-32-4567"
+    },
+    {
+      "name": "民宿ちかつゆ",
+      "romaji": "Minshuku Chikatsuyu",
+      "tel": "+81-739-65-0617",
+      "fax": ""
+    },
+    {
+      "name": "旅館加茂川",
+      "romaji": "Ryokan Kamogawa",
+      "tel": "+81-3-3843-2681",
+      "fax": ""
+    },
+    {
+      "name": "三井ガーデンホテル銀座五丁目",
+      "romaji": "Mitsui Garden Hotel Ginza Gochome",
+      "tel": "+81-3-6226-5131",
+      "fax": ""
+    },
+    {
+      "name": "リッチモンドホテル浅草",
+      "romaji": "Richmond Hotel Asakusa",
+      "tel": "+81-3-5806-0255",
+      "fax": ""
+    },
+    {
+      "name": "三井ガーデンホテル名古屋プレミア",
+      "romaji": "Mitsui Garden Hotel Nagoya Premier",
+      "tel": "+81-52-587-1131",
+      "fax": ""
+    },
+    {
+      "name": "ＪＲ九州ホテル ブラッサム博多中央（博多口）",
+      "romaji": "Jr Kyushu Hotel Blossom Hakata Chuo",
+      "tel": "+81-92-477-8739",
+      "fax": "+81-92-477-8789"
+    },
+    {
+      "name": "ルミエスタホテル",
+      "romaji": "Kamikochi Lemeiesta Hotel",
+      "tel": "+81-263-95-2121",
+      "fax": "+81-263-95-2546"
+    },
+    {
+      "name": "ザ・ゲートホテル雷門 by HULIC",
+      "romaji": "The Gate Hotel Kaminarimon by Hulic",
+      "tel": "+81-3-5826-3877",
+      "fax": ""
+    },
+    {
+      "name": "ホリデイ・イン エクスプレス シティセンター 御堂筋 IHG ホテル",
+      "romaji": "Holiday Inn Express Osaka City Centre - Midosuji, An Ihg Hotel",
+      "tel": "+81-6-4963-2422",
+      "fax": ""
+    },
+    {
+      "name": "雨庵 金沢",
+      "romaji": "Uan Kanazawa",
+      "tel": "+81-76-260-0111",
+      "fax": ""
+    },
+    {
+      "name": "西鉄リゾートイン別府",
+      "romaji": "Nishitetsu Resort Inn Beppu",
+      "tel": "+81-97-726-5151",
+      "fax": ""
+    },
+    {
+      "name": "浅草ビューホテルアネックス六区",
+      "romaji": "Asakusa View Hotel Annex Rokku",
+      "tel": "+81-570-003-235",
+      "fax": ""
+    },
+    {
+      "name": "芝パークホテル",
+      "romaji": "Shiba Park Hotel",
+      "tel": "+81-3-3433-4141",
+      "fax": ""
+    },
+    {
+      "name": "相鉄フレッサインホテル銀座七丁目",
+      "romaji": "Sotetsu Fresa Inn Ginza-Nanachome",
+      "tel": "+81-3-6891-0203",
+      "fax": "+81-3-6891-0902"
+    },
+    {
+      "name": "御宿 結の庄",
+      "romaji": "Onyado Yuinosho",
+      "tel": "+81-576-96-2005",
+      "fax": ""
+    },
+    {
+      "name": "天成園",
+      "romaji": "Tenseien",
+      "tel": "+81-460-83-8500",
+      "fax": ""
+    },
+    {
+      "name": "ホテルジャルダンフルール",
+      "romaji": "Hotel Jardin de Fleurs",
+      "tel": "+81-75-761-1377",
+      "fax": ""
+    },
+    {
+      "name": "アゴーラ 京都四条",
+      "romaji": "Agora Kyoto Shijo",
+      "tel": "+81-75-254-7588",
+      "fax": ""
+    },
+    {
+      "name": "パルスイン勝浦",
+      "romaji": "Pals Inn Katsuura",
+      "tel": "+81-735-52-6588",
+      "fax": ""
+    },
+    {
+      "name": "風の薫",
+      "romaji": "Kaze no kaori",
+      "tel": "+81-120-759-337",
+      "fax": ""
+    },
+    {
+      "name": "御宿料亭 春光園",
+      "romaji": "Shunkouen",
+      "tel": "+81-97-263-3128",
+      "fax": "+81-97-263-5172"
+    },
+    {
+      "name": "直島ジュジュアートハウス",
+      "romaji": "Naoshima Juju Art House",
+      "tel": "+81-80-4862-1977",
+      "fax": ""
+    },
+    {
+      "name": "箱根路開雲",
+      "romaji": "Hakoneji Kaiun",
+      "tel": "+81-460-85-6678",
+      "fax": "+81-460-85-3025"
+    },
+    {
+      "name": "夢乃井庵 夕やけこやけ",
+      "romaji": "Yuyake Koyake Ryokan",
+      "tel": "+81-793-36-1000",
+      "fax": "+81-793-36-1027"
+    },
+    {
+      "name": "宿坊 上池院",
+      "romaji": "Jochi-In Temple",
+      "tel": "+81-736-56-2318",
+      "fax": ""
+    },
+    {
+      "name": "カンデオホテルズ大阪心斎橋",
+      "romaji": "Candeo Hotels Osaka Shinsaibashi",
+      "tel": "+81-6-6926-8633",
+      "fax": ""
+    },
+    {
+      "name": "都シティ 東京高輪",
+      "romaji": "Miyako City Tokyo Takanawa",
+      "tel": "+81-3-3280-4111",
+      "fax": ""
+    },
+    {
+      "name": "ANAクラウンプラザホテル 松山",
+      "romaji": "ANA Crowne Plaza Matsuyama by IHG",
+      "tel": "+81-89-933-5511",
+      "fax": ""
+    },
+    {
+      "name": "夢工房",
+      "romaji": "Yumekobo",
+      "tel": "+81-154-65-2181",
+      "fax": ""
+    },
+    {
+      "name": "三井ガーデンホテル京都新町 別邸",
+      "romaji": "Mitsui Garden Hotel Kyoto Shinmachi Bettei",
+      "tel": "+81-75-257-1131",
+      "fax": ""
+    },
+    {
+      "name": "コンフォートホテル紀伊田辺",
+      "romaji": "Comfort Hotel Kiitanabe",
+      "tel": "+81-739-22-6111",
+      "fax": ""
+    },
+    {
+      "name": "箱根藍瑠",
+      "romaji": "Hakone Airu",
+      "tel": "+81-460-85-3300",
+      "fax": ""
+    },
+    {
+      "name": "Connect inn 祇園四条",
+      "romaji": "Connect Inn Gionshijo",
+      "tel": "+81-75-671-8880",
+      "fax": ""
+    },
+    {
+      "name": "ホテルザフラッグ心斎橋",
+      "romaji": "Hotel The Flag Shinsaibashi",
+      "tel": "+81-6-6121-8111",
+      "fax": ""
+    },
+    {
+      "name": "変なホテルプレミア京都 五条烏丸",
+      "romaji": "Henn Na Hotel Premier Kyoto Gojo Karasuma",
+      "tel": "+81-50-5210-5333",
+      "fax": ""
+    },
+    {
+      "name": "ホテル河鹿荘",
+      "romaji": "Hotel Kajikaso",
+      "tel": "+81-460-85-5561",
+      "fax": ""
+    },
+    {
+      "name": "星空の宿",
+      "romaji": "Hoshizora No Yado",
+      "tel": "+81-90-9052-3079",
+      "fax": "+81-739-64-1317"
+    },
+    {
+      "name": "ホテル ヴィラフォンテーヌグランド 東京有明",
+      "romaji": "Villa Fontaine Grand Tokyo Ariake",
+      "tel": "+81-3-6426-0505",
+      "fax": "+81-3-6426-0668"
+    },
+    {
+      "name": "都シティ 大阪天王寺",
+      "romaji": "Miyako City Osaka Tennoji",
+      "tel": "+81-6-6628-3200",
+      "fax": "+81-6-6628-8686"
+    },
+    {
+      "name": "俵屋",
+      "romaji": "Tawaraya",
+      "tel": "+81-80-7715-8840",
+      "fax": ""
+    },
+    {
+      "name": "たびのホテルlit松本",
+      "romaji": "Tabino Hotel Lit Matsumoto",
+      "tel": "+81-263-39-5050",
+      "fax": ""
+    },
+    {
+      "name": "ホテル宮島別荘",
+      "romaji": "Hotel Miyajima Villa",
+      "tel": "+81-82-944-1180",
+      "fax": ""
+    },
+    {
+      "name": "源氏京都",
+      "romaji": "Genji Kyoto",
+      "tel": "+81-75-365-3001",
+      "fax": ""
+    },
+    {
+      "name": "金沢白鳥路 ホテル山楽",
+      "romaji": "Kanazawa Hakuchoro Hotel Sanraku",
+      "tel": "+81-76-222-1601",
+      "fax": ""
+    },
+    {
+      "name": "ホテルフォルツァ金沢",
+      "romaji": "Hotel Forza Kanazawa",
+      "tel": "+81-76-222-7411",
+      "fax": "+81-76-224-3611"
+    },
+    {
+      "name": "ダイワロイネットホテル 岐阜",
+      "romaji": "Daiwa Roynet Hotel Gifu",
+      "tel": "+81-582-12-0055",
+      "fax": ""
+    },
+    {
+      "name": "宿坊 持明院",
+      "romaji": "Jimyo-In Temple",
+      "tel": "+81-736-56-2222",
+      "fax": ""
+    },
+    {
+      "name": "リッチモンドホテル松本",
+      "romaji": "Richmond Hotel Matsumoto",
+      "tel": "+81-263-37-5000",
+      "fax": ""
+    },
+    {
+      "name": "宿坊 恵光院",
+      "romaji": "Eko-In Temple",
+      "tel": "+81-736-56-2514",
+      "fax": ""
+    },
+    {
+      "name": "ホテルメトロポリタンエドモント",
+      "romaji": "Hotel Metropolitan Edmont",
+      "tel": "+81-3-3237-1111",
+      "fax": ""
+    },
+    {
+      "name": "若 京都河原町ホテル",
+      "romaji": "Waka Kyoto Kawaramachi",
+      "tel": "+81-75-746-5844",
+      "fax": ""
+    },
+    {
+      "name": "箱根小涌園 美山楓林",
+      "romaji": "Hakone Kowakien Miyamafurin",
+      "tel": "+81-460-82-1605",
+      "fax": ""
+    },
+    {
+      "name": "MIROKU 奈良 by THE SHARE HOTELS",
+      "romaji": "Miroku Hotel Nara",
+      "tel": "+81-742-93-8021",
+      "fax": ""
+    },
+    {
+      "name": "海乃ホテルはじめ",
+      "romaji": "Umino Hotel Hajime",
+      "tel": "+81-97-723-2201",
+      "fax": ""
+    },
+    {
+      "name": "相鉄フレッサイン 大門駅前",
+      "romaji": "Sotetsu Fresa Inn Daimon Ekimae",
+      "tel": "+81-3-6402-3203",
+      "fax": ""
+    },
+    {
+      "name": "ザ・スクエアホテル金沢",
+      "romaji": "The Square Hotel Kanazawa",
+      "tel": "+81-76-221-2611",
+      "fax": ""
+    },
+    {
+      "name": "ホテル鴎風亭",
+      "romaji": "Ofutei",
+      "tel": "+81-849-82-1123",
+      "fax": ""
+    },
+    {
+      "name": "吉池旅館",
+      "romaji": "Yoshiike Ryokan",
+      "tel": "+81-460-85-5711",
+      "fax": ""
+    },
+    {
+      "name": "ホテルアンテルーム京都",
+      "romaji": "Hotel Anteroom Kyoto",
+      "tel": "+81-75-681-5656",
+      "fax": ""
+    },
+    {
+      "name": "近露Pon",
+      "romaji": "Chikatsuyu Pon",
+      "tel": "+81-90-5661-1362",
+      "fax": ""
+    },
+    {
+      "name": "東急ステイ メルキュール 大阪なんば",
+      "romaji": "Mercure Tokyu Stay Osaka Namba",
+      "tel": "+81-6-6214-0109",
+      "fax": ""
+    },
+    {
+      "name": "ホテルグレイスリー大阪なんば",
+      "romaji": "Hotel Gracery Osaka Namba",
+      "tel": "+81-6-7639-9933",
+      "fax": ""
+    },
+    {
+      "name": "太子舘",
+      "romaji": "Taishikan",
+      "tel": "+81-55-522-1947",
+      "fax": ""
+    },
+    {
+      "name": "ゲストハウス　COZY",
+      "romaji": "Guest house Cozy",
+      "tel": "",
+      "fax": ""
+    },
+    {
+      "name": "ホテルグランヴィア 岡山",
+      "romaji": "Hotel Granvia Okayama",
+      "tel": "+81-86-234-7000",
+      "fax": ""
+    },
+    {
+      "name": "万福庵 永昌寺",
+      "romaji": "Manpuku-An Eishoji",
+      "tel": "+81-573-69-2051",
+      "fax": "+81-573-69-2003"
+    },
+    {
+      "name": "竹間つゆくさ庵",
+      "romaji": "Chikkan Tsuyukusa-an",
+      "tel": "+81-75-212-3111",
+      "fax": ""
+    },
+    {
+      "name": "the b 銀座",
+      "romaji": "The B Ginza",
+      "tel": "+81-3-3543-1200",
+      "fax": ""
+    },
+    {
+      "name": "西門院",
+      "romaji": "Saimon-In Temple",
+      "tel": "+81-736-56-2031",
+      "fax": ""
+    },
+    {
+      "name": "コンフォートホテル名古屋名駅南",
+      "romaji": "Comfort Hotel Nagoya Meiekiminami",
+      "tel": "+81-52-581-7211",
+      "fax": "+81-52-581-7212"
+    },
+    {
+      "name": "蒼の湖邸ビワフロント彦根",
+      "romaji": "Aonokotei Biwafront Hikone",
+      "tel": "+81-570-078-857",
+      "fax": ""
+    },
+    {
+      "name": "リッチモンドホテル名古屋新幹線口",
+      "romaji": "Richmond Hotel Nagoya Shinkansenguchi",
+      "tel": "+81-52-452-8145",
+      "fax": ""
+    },
+    {
+      "name": "大阪マリオット都ホテル",
+      "romaji": "Osaka Marriott Miyako Hotel",
+      "tel": "+81-6-6628-6111",
+      "fax": "+81-6-6628-6266"
+    },
+    {
+      "name": "高野山 宝城院",
+      "romaji": "Hojo-in temple",
+      "tel": "+81-6480211",
+      "fax": ""
+    },
+    {
+      "name": "アルモントホテル日暮里",
+      "romaji": "Almont Hotel Nippori",
+      "tel": "+81-3-5615-3431",
+      "fax": ""
+    },
+    {
+      "name": "ヒルトン京都",
+      "romaji": "Hilton Kyoto",
+      "tel": "+81-75-212-8007",
+      "fax": ""
+    },
+    {
+      "name": "元湯 環翠楼",
+      "romaji": "Motoyu Kansuiro",
+      "tel": "+81-460-85-5511",
+      "fax": ""
+    },
+    {
+      "name": "イビススタイルズ京都四条",
+      "romaji": "Ibis Styles Kyoto Shijo",
+      "tel": "+81-75-254-7280",
+      "fax": "+81-75-254-7281"
+    },
+    {
+      "name": "ノーガホテル 秋葉原 東京",
+      "romaji": "Nohga Hotel Akihabara",
+      "tel": "+81-3-6206-0569",
+      "fax": ""
+    },
+    {
+      "name": "エースホテル 京都",
+      "romaji": "Ace Hotel Kyoto",
+      "tel": "+81-75-229-9000",
+      "fax": ""
+    },
+    {
+      "name": "塔ノ沢一の湯 本館",
+      "romaji": "Tonosawa Ichinoyu Honkan",
+      "tel": "+81-460-85-5334",
+      "fax": ""
+    },
+    {
+      "name": "三井ガーデンホテル金沢",
+      "romaji": "Mitsui Garden Hotel Kanazawa",
+      "tel": "+81-76-263-5531",
+      "fax": ""
+    },
+    {
+      "name": "静鉄ホテルプレジオ 東京田町",
+      "romaji": "Shizutetsu Hotel Prezio Tokyo Tamachi",
+      "tel": "+81-3-6722-0711",
+      "fax": ""
+    },
+    {
+      "name": "メルキュール飛騨高山",
+      "romaji": "Mercure Hida Takayama",
+      "tel": "+81-577-35-2702",
+      "fax": ""
+    },
+    {
+      "name": "ヴィアインプライム心斎橋四ツ橋",
+      "romaji": "Via Inn Prime Shinsaibashi Yotsubashi",
+      "tel": "+81-6-6533-5489",
+      "fax": ""
+    },
+    {
+      "name": "ホテル ビスタ大阪なんば",
+      "romaji": "Hotel Vista Osaka Namba",
+      "tel": "+81-6-4708-5519",
+      "fax": "+81-6-4708-5509"
+    },
+    {
+      "name": "小林屋",
+      "romaji": "Kobayashiya",
+      "tel": "+81-796-32-2424",
+      "fax": ""
+    },
+    {
+      "name": "ホリデイ・イン大阪難波",
+      "romaji": "Holiday Inn Osaka Namba",
+      "tel": "+81-6-6212-7999",
+      "fax": ""
+    },
+    {
+      "name": "ホテル浦島",
+      "romaji": "Hotel Urashima",
+      "tel": "+81-735-52-1011",
+      "fax": ""
+    },
+    {
+      "name": "ロイヤルパーク羽田",
+      "romaji": "Royal Park Haneda",
+      "tel": "+81-3-6830-1111",
+      "fax": ""
+    },
+    {
+      "name": "東横 INN 福山駅新幹線南口",
+      "romaji": "Toyoko Inn Fukuyama Station Shinkansen Minami",
+      "tel": "+81-849-16-1045",
+      "fax": "+81-84916046"
+    },
+    {
+      "name": "相鉄フレッサイン 大阪なんば駅前",
+      "romaji": "Sotetsu Fresa Inn Osaka-Namba Ekimae",
+      "tel": "+81-6-7668-2031",
+      "fax": ""
+    },
+    {
+      "name": "星のや竹富島",
+      "romaji": "Hoshinoya Taketomijima",
+      "tel": "+81-50-3134-8091",
+      "fax": ""
+    },
+    {
+      "name": "名古屋JRゲートタワーホテル",
+      "romaji": "Nagoya Jr Gate Tower Hotel",
+      "tel": "+81-52-566-2111",
+      "fax": ""
+    },
+    {
+      "name": "KOKO HOTEL Residence 浅草かっぱ橋",
+      "romaji": "Koko Hotel Residence Asakusa Kappabashi",
+      "tel": "+81-3-5830-8770",
+      "fax": ""
+    },
+    {
+      "name": "東京ベイ潮見プリンスホテル",
+      "romaji": "Tokyo Bay Shiomi Prince Hotel",
+      "tel": "+81-3-6660-3222",
+      "fax": ""
+    },
+    {
+      "name": "新宿ワシントンホテル 本館",
+      "romaji": "SHINJUKU WASHINGTON HOTEL MAIN",
+      "tel": "+81-3-3343-3111",
+      "fax": ""
+    },
+    {
+      "name": "帝国ホテル",
+      "romaji": "Imperial Hotel Tokyo",
+      "tel": "+81-3-3504-1111",
+      "fax": ""
+    },
+    {
+      "name": "ヒルトン・ガーデン・イン京都四条烏丸",
+      "romaji": "Hilton Garden Inn Kyoto Shijo Karasuma",
+      "tel": "+81-75-320-5111",
+      "fax": ""
+    },
+    {
+      "name": "箱根リトリート före by 温故知新",
+      "romaji": "Hakone Retreat Före",
+      "tel": "+81-460-83-9090",
+      "fax": ""
+    },
+    {
+      "name": "御宿　野乃金沢",
+      "romaji": "Onyado Nono Kanazawa Natural Hot Spring",
+      "tel": "+81-76-223-5489",
+      "fax": ""
+    },
+    {
+      "name": "Nipponia 鞆 港町",
+      "romaji": "Nipponia Tomo Port Town",
+      "tel": "+81-70-1458-7743",
+      "fax": ""
+    },
+    {
+      "name": "ダイワロイネットホテル金沢MIYABI",
+      "romaji": "Daiwa Roynet Hotel Kanazawa Miyabi",
+      "tel": "+81-76-223-6186",
+      "fax": ""
+    },
+    {
+      "name": "リッチモンドホテルプレミア浅草インターナショナル",
+      "romaji": "Richmond Hotel Premier Asakusa International",
+      "tel": "+81-3-5806-3155",
+      "fax": ""
+    },
+    {
+      "name": "ホテル ブエナビスタ",
+      "romaji": "Hotel Buena Vista",
+      "tel": "+81-263-37-0111",
+      "fax": ""
+    },
+    {
+      "name": "東急ステイ 飛騨高山 結の湯",
+      "romaji": "Tokyu Stay Hida-Takayama Musubi No Yu",
+      "tel": "+81-577-36-1109",
+      "fax": ""
+    },
+    {
+      "name": "松本丸の内ホテル",
+      "romaji": "Matsumoto Marunouchi Hotel",
+      "tel": "+81-263-35-4500",
+      "fax": ""
+    },
+    {
+      "name": "田町武家屋敷ホテル",
+      "romaji": "Tamachi Bukeyashiki Hotel",
+      "tel": "+81-187-52-1700",
+      "fax": ""
+    },
+    {
+      "name": "the b 新橋",
+      "romaji": "The B Shinbashi",
+      "tel": "+81-3-3501-2500",
+      "fax": ""
+    },
+    {
+      "name": "本王院",
+      "romaji": "Honno-in",
+      "tel": "+81-736-56-2134",
+      "fax": ""
+    },
+    {
+      "name": "ホテルロイヤルクラシック大阪",
+      "romaji": "Hotel Royal Classic Osaka",
+      "tel": "+81-6-6633-0030",
+      "fax": ""
+    },
+    {
+      "name": "宿坊 不動院",
+      "romaji": "Fudo-In Temple",
+      "tel": "+81-736-56-2414",
+      "fax": ""
+    },
+    {
+      "name": "ホテル京阪 浅草",
+      "romaji": "Hotel Keihan Asakusa",
+      "tel": "+81-3-5830-0321",
+      "fax": ""
+    },
+    {
+      "name": "玉蔵院",
+      "romaji": "gyokuzo-in",
+      "tel": "+81-745-72-2881",
+      "fax": ""
+    },
+    {
+      "name": "ノク京都",
+      "romaji": "Noku Kyoto",
+      "tel": "+81-75-211-0222",
+      "fax": ""
+    },
+    {
+      "name": "京王プレッソイン浜松町",
+      "romaji": "Keio Presso Inn Hamamatsucho",
+      "tel": "+81-3-3438-0202",
+      "fax": ""
+    },
+    {
+      "name": "リーガロイヤルホテル広島",
+      "romaji": "Rihga Royal Hotel Hiroshima",
+      "tel": "+81-82-502-1121",
+      "fax": ""
+    },
+    {
+      "name": "宿坊 福智院",
+      "romaji": "Fukuchi-In Temple",
+      "tel": "+81-736-56-2021",
+      "fax": ""
+    },
+    {
+      "name": "宮島シーサイドホテル",
+      "romaji": "Miyajima Seaside Hotel",
+      "tel": "+81-82-944-0118",
+      "fax": ""
+    },
+    {
+      "name": "湯の峯荘",
+      "romaji": "Yunomineso",
+      "tel": "+81-735-42-1111",
+      "fax": "+81-735-42-0200"
+    },
+    {
+      "name": "ホテルインターゲート京都 四条新町",
+      "romaji": "Hotel Intergate Kyoto Shijo Shinmachi",
+      "tel": "+81-75-255-2221",
+      "fax": ""
+    },
+    {
+      "name": "https://maps.app.goo.gl/NET8hcKD2p4NdccX6",
+      "romaji": "Kimidoria",
+      "tel": "+81-80-3826-7933",
+      "fax": ""
+    },
+    {
+      "name": "静鉄ホテルプレジオ京都四条",
+      "romaji": "Shizutetsu Hotel Prezio Kyoto Shijo",
+      "tel": "+81-75-741-7891",
+      "fax": ""
+    },
+    {
+      "name": "漁師の宿あっちゃん",
+      "romaji": "Ryoshi No Yado Acchan",
+      "tel": "+81-90-8790-3270",
+      "fax": ""
+    },
+    {
+      "name": "カンデオホテルズ広島八丁堀",
+      "romaji": "Candeo Hotels Hiroshima Hatchobori",
+      "tel": "+81-82-511-1300",
+      "fax": ""
+    },
+    {
+      "name": "ホテル・トリフィート金沢",
+      "romaji": "Hotel Torifito Kanazawa",
+      "tel": "+81-76-210-9010",
+      "fax": ""
+    },
+    {
+      "name": "Tマークシティホテル札幌大通",
+      "romaji": "Tmark City Hotel Sapporo Odori",
+      "tel": "+81-11-219-3300",
+      "fax": ""
+    },
+    {
+      "name": "炭屋旅館",
+      "romaji": "Sumiya Ryokan",
+      "tel": "+81-75-221-2188",
+      "fax": ""
+    },
+    {
+      "name": "いぶすき秀水園",
+      "romaji": "Ibusuki Syusuien",
+      "tel": "+81-99-323-4141",
+      "fax": ""
+    },
+    {
+      "name": "龍宮殿",
+      "romaji": "Ryuguden",
+      "tel": "+81-46081121",
+      "fax": ""
+    },
+    {
+      "name": "三井ガーデンホテル銀座築地",
+      "romaji": "Mitsui Garden Hotel Ginza Tsukiji",
+      "tel": "+81-3-5565-2731",
+      "fax": ""
+    },
+    {
+      "name": "渡瀬温泉ホテルささゆり",
+      "romaji": "Watarase Onsen Hotel Sasayuri",
+      "tel": "+81-735-42-1185",
+      "fax": ""
+    },
+    {
+      "name": "三交イン 伊勢市駅前～四季乃湯～",
+      "romaji": "Sanco Inn Iseshi Ekimae",
+      "tel": "+81-596-20-3539",
+      "fax": ""
+    },
+    {
+      "name": "アパホテル〈新宿御苑前〉",
+      "romaji": "APA Hotel Shinjuku Gyoemmae",
+      "tel": "",
+      "fax": ""
+    },
+    {
+      "name": "ゆの里",
+      "romaji": "Guesthouse Yunosato",
+      "tel": "+81-735-42-0474",
+      "fax": ""
+    },
+    {
+      "name": "普賢院",
+      "romaji": "Koyasan Shukubo Fugenin",
+      "tel": "+81-736-56-2131",
+      "fax": ""
+    },
+    {
+      "name": "宿坊 常喜院",
+      "romaji": "Joki-In Temple",
+      "tel": "+81-736-56-2321",
+      "fax": ""
+    },
+    {
+      "name": "コンフォートホテル伊勢",
+      "romaji": "Comfort Hotel Ise",
+      "tel": "+81-596-27-1811",
+      "fax": ""
+    },
+    {
+      "name": "宿坊 総持院",
+      "romaji": "Souji-In Temple",
+      "tel": "+81-736-56-2111",
+      "fax": ""
+    },
+    {
+      "name": "スイスホテル南海大阪",
+      "romaji": "Swissotel Nankai Osaka",
+      "tel": "+81-6-6646-1111",
+      "fax": ""
+    },
+    {
+      "name": "お宿 吉野屋",
+      "romaji": "Oyado Yoshinoya",
+      "tel": "+81-577-32-3508",
+      "fax": ""
+    },
+    {
+      "name": "熊野古道の宿 霧の郷たかはら",
+      "romaji": "Kiri-No-Sato Takahara Lodge \\\"Organic Hotel\\\"",
+      "tel": "+81-739-64-1900",
+      "fax": ""
+    },
+    {
+      "name": "hotel MONday Premium 上野御徒町",
+      "romaji": "Hotel Monday Premium Ueno Okachimachi",
+      "tel": "+81-3-5816-8681",
+      "fax": ""
+    },
+    {
+      "name": "MIMARU SUITES 東京浅草",
+      "romaji": "Mimaru Suites Tokyo Asakusa",
+      "tel": "+81-3-6284-7566",
+      "fax": ""
+    },
+    {
+      "name": "ホテルビスタ 金沢",
+      "romaji": "Hotel Vista Kanazawa",
+      "tel": "+81-76-260-0007",
+      "fax": "+81-76-260-0017"
+    },
+    {
+      "name": "フサキビーチリゾート ホテル＆ヴィラズ",
+      "romaji": "Fusaki Beach Resort Hotel & Villas",
+      "tel": "+81-98-088-7000",
+      "fax": ""
+    },
+    {
+      "name": "純和風料理旅館 き乃ゑ",
+      "romaji": "Kyoto Ryokan The Kinoe",
+      "tel": "+81-75-561-1230",
+      "fax": ""
+    },
+    {
+      "name": "宮島 ホテル菊乃家",
+      "romaji": "Kikunoya",
+      "tel": "+81-82-940-2400",
+      "fax": ""
+    },
+    {
+      "name": "ホテル紀伊田辺",
+      "romaji": "Hotel Kii Tanabe",
+      "tel": "+81-739-26-7000",
+      "fax": "+81-739-26-7020"
+    },
+    {
+      "name": "リーガプレイス京都四条烏丸",
+      "romaji": "RIHGA PLACE KYOTO SHIJO KARASUMA",
+      "tel": "+81-75-342-1121",
+      "fax": "+81-75-585-4682"
+    },
+    {
+      "name": "ダイワロイネットホテル名古屋駅前",
+      "romaji": "Daiwa Roynet Hotel Nagoya Station",
+      "tel": "+81-52-541-3955",
+      "fax": ""
+    },
+    {
+      "name": "ホテルフォルツァ京都四条河原町",
+      "romaji": "Hotel Forza Kyoto Shijo Kawaramachi",
+      "tel": "+81-75-254-8251",
+      "fax": "+81-75-254-8253"
+    },
+    {
+      "name": "ヴィアインプライム広島新幹線口",
+      "romaji": "Via Inn Hiroshima Shinkansenguchi",
+      "tel": "+81-82-568-5489",
+      "fax": ""
+    },
+    {
+      "name": "ザ ノット広島",
+      "romaji": "The Knot Hiroshima",
+      "tel": "+81-570-009-015",
+      "fax": ""
+    },
+    {
+      "name": "ヒルトン 広島",
+      "romaji": "Hilton Hiroshima",
+      "tel": "+81-82-243-2700",
+      "fax": ""
+    },
+    {
+      "name": "富士レークホテル",
+      "romaji": "Fuji Lake Hotel",
+      "tel": "+81-55-572-2209",
+      "fax": ""
+    },
+    {
+      "name": "アパホテル〈浅草 雷門〉",
+      "romaji": "apa Hotels&Risorts Kaminarimon",
+      "tel": "+81-3-5830-9411",
+      "fax": ""
+    },
+    {
+      "name": "旅館 寿美吉",
+      "romaji": "Sumiyoshi Ryokan",
+      "tel": "+81-577-32-0228",
+      "fax": "+81-577-33-8916"
+    },
+    {
+      "name": "高山グリーンホテル",
+      "romaji": "Takayama Green Hotel",
+      "tel": "+81-577-33-5500",
+      "fax": ""
+    },
+    {
+      "name": "レジーナ河口湖",
+      "romaji": "Hotel Regina Kawaguchiko",
+      "tel": "+81-55-520-9000",
+      "fax": ""
+    },
+    {
+      "name": "ホテルグランヴィア京都",
+      "romaji": "Hotel Granvia Kyoto",
+      "tel": "+81-75-344-8888",
+      "fax": ""
+    },
+    {
+      "name": "ベッセルイン心斎橋",
+      "romaji": "Vessel Inn Shinsaibashi",
+      "tel": "+81-6-6282-0303",
+      "fax": ""
+    },
+    {
+      "name": "ハイアットセントリック金沢",
+      "romaji": "Hyatt Centric Kanazawa",
+      "tel": "+81-76-256-1234",
+      "fax": ""
+    },
+    {
+      "name": "ベストウェスタン ホテルフィーノ大阪心斎橋",
+      "romaji": "Best Western Hotel Fino Osaka Shinsaibashi",
+      "tel": "+81-6-6243-4055",
+      "fax": "+81-6-6243-4075"
+    },
+    {
+      "name": "たびのホテル飛騨高山",
+      "romaji": "Tabino Hotel Hida Takayama",
+      "tel": "+81-577-36-1220",
+      "fax": ""
+    },
+    {
+      "name": "アパホテル浅草駅前",
+      "romaji": "APA Hotel Asakusa Ekimae",
+      "tel": "+81-3-5830-9611",
+      "fax": ""
+    },
+    {
+      "name": "ホテルメトロポリタン",
+      "romaji": "Hotel Metropolitan Tokyo Ikebukuro",
+      "tel": "+81-3-3980-1111",
+      "fax": ""
+    },
+    {
+      "name": "ホテル日航大阪",
+      "romaji": "Hotel Nikko Osaka",
+      "tel": "+81-6-6244-1111",
+      "fax": ""
+    },
+    {
+      "name": "変なホテル東京 浅草田原町",
+      "romaji": "Henn Na Hotel Tokyo Asakusa Tawaramachi",
+      "tel": "+81-50-5210-5250",
+      "fax": ""
+    },
+    {
+      "name": "ホテルTAITO",
+      "romaji": "Hotel Taito",
+      "tel": "+81-154-64-3111",
+      "fax": "+81-154-64-3333"
+    },
+    {
+      "name": "コンフォートホテル東京東神田",
+      "romaji": "Comfort Hotel Tokyo Higashi-Kanda",
+      "tel": "+81-3-3865-2611",
+      "fax": ""
+    },
+    {
+      "name": "岩惣",
+      "romaji": "Iwaso",
+      "tel": "+81-82-944-2233",
+      "fax": ""
+    },
+    {
+      "name": "あうら橘",
+      "romaji": "Aura Tachibana",
+      "tel": "+81-460-85-5541",
+      "fax": ""
+    },
+    {
+      "name": "ホテルリソル京都 四条室町",
+      "romaji": "Hotel Resol Kyoto Shijo Muromachi",
+      "tel": "+81-75-365-9269",
+      "fax": ""
+    },
+    {
+      "name": "ワットホテル＆スパ 飛騨高山",
+      "romaji": "Wat Hotel & Spa Hida Takayama",
+      "tel": "+81-577-57-5570",
+      "fax": ""
+    },
+    {
+      "name": "ザ・ライブリー大阪本町",
+      "romaji": "Hotel Lively Osaka Honmachi",
+      "tel": "+81-50-3138-1988",
+      "fax": ""
+    },
+    {
+      "name": "ホテルJALシティ東京 豊洲",
+      "romaji": "Hotel JAL City Tokyo Toyosu",
+      "tel": "+81-3-5962-4000",
+      "fax": ""
+    },
+    {
+      "name": "ザ・カンザシ東京浅草",
+      "romaji": "The Kanzashi Tokyo Asakusa",
+      "tel": "+81-3-5830-6151",
+      "fax": "+81-3-5830-6152"
+    },
+    {
+      "name": "ストリングスホテル名古屋",
+      "romaji": "The Strings Hotel Nagoya",
+      "tel": "+81-52-589-0577",
+      "fax": ""
+    },
+    {
+      "name": "ホテル グルーヴ新宿",
+      "romaji": "Hotel Groove Shinjuku",
+      "tel": "+81-3-6233-8888",
+      "fax": ""
+    },
+    {
+      "name": "ザ ブラッサム 京都",
+      "romaji": "The Blossom Kyoto",
+      "tel": "+81-75-754-8735",
+      "fax": ""
+    },
+    {
+      "name": "ウィスタリアンライフクラブ ヴェルデの森",
+      "romaji": "Wisterian Life Club Verde no Mori",
+      "tel": "+81-460-82-2266",
+      "fax": ""
+    },
+    {
+      "name": "新茶屋",
+      "romaji": "Shinchaya",
+      "tel": "+81-573-69-2619",
+      "fax": "+81-573-69-2619"
+    },
+    {
+      "name": "MIMARU東京 上野御徒町",
+      "romaji": "Mimaru Tokyo Ueno Okachimachi",
+      "tel": "+81-3-5817-8335",
+      "fax": ""
+    },
+    {
+      "name": "ホテル心斎橋ライオンズロック",
+      "romaji": "Hotel Shinsaibashi",
+      "tel": "+81-6-6214-2411",
+      "fax": ""
+    },
+    {
+      "name": "THE MACHIYA HOTEL TAKAYAMA",
+      "romaji": "The Machiya Hotel Takayama",
+      "tel": "+81-577-57-7000",
+      "fax": ""
+    },
+    {
+      "name": "ダイワロイネットホテル福山駅前",
+      "romaji": "Daiwa Roynet Hotel Fukuyama Ekimae",
+      "tel": "+81-849-73-6880",
+      "fax": "+81-849-73-6881"
+    },
+    {
+      "name": "そわか楼",
+      "romaji": "Sowaka Rou",
+      "tel": "+81-849-83-3225",
+      "fax": ""
+    },
+    {
+      "name": "福住楼",
+      "romaji": "Fukuzumiro",
+      "tel": "+81-460-85-5301",
+      "fax": ""
+    },
+    {
+      "name": "景勝館 漣亭",
+      "romaji": "Keishokan Sazanamitei",
+      "tel": "+81-849-70-5030",
+      "fax": "+81-849-70-5340"
+    },
+    {
+      "name": "ホテル花屋",
+      "romaji": "Hotel Hanaya",
+      "tel": "+81-739-22-3877",
+      "fax": "+81-739-25-1400"
+    },
+    {
+      "name": "東横INN横浜スタジアム前2",
+      "romaji": "Toyoko Inn Yokohama Stadium Mae No 2",
+      "tel": "+81-45-664-1045",
+      "fax": ""
+    },
+    {
+      "name": "IP CITY ホテル大阪",
+      "romaji": "IP CITY HOTEL Osaka",
+      "tel": "+81-6-6251-2111",
+      "fax": ""
+    },
+    {
+      "name": "三井ガーデンホテル汐留イタリア街",
+      "romaji": "Mitsui Garden Hotel Shiodome Italia-Gai",
+      "tel": "+81-3-3431-1131",
+      "fax": "+81-3-3431-2431"
+    },
+    {
+      "name": "東急ステイ 大阪本町",
+      "romaji": "Tokyu Stay Osaka Honmachi",
+      "tel": "+81-6-6262-0109",
+      "fax": "+81-6-6262-1109"
+    },
+    {
+      "name": "ラビスタ富士河口湖",
+      "romaji": "La vista Kawaguchiko",
+      "tel": "+81-55-576-5220",
+      "fax": ""
+    },
+    {
+      "name": "ホテルグランバッハ東京銀座",
+      "romaji": "Hotel Grand Bach Tokyo Ginza",
+      "tel": "+81-3-5550-2222",
+      "fax": ""
+    },
+    {
+      "name": "こもり庵",
+      "romaji": "Komorian",
+      "tel": "+81-90-7521-9901",
+      "fax": ""
+    },
+    {
+      "name": "ANAクラウンプラザホテル 岡山",
+      "romaji": "Ana Crowne Plaza Okayama by IHG",
+      "tel": "+81-86-898-1111",
+      "fax": ""
+    },
+    {
+      "name": "JR 九州ホテル ブラッサム福岡",
+      "romaji": "JR KYUSHU HOTEL Blossom Fukuoka",
+      "tel": "+81-92-413-8787",
+      "fax": ""
+    },
+    {
+      "name": "MIMARU東京 浅草STATION",
+      "romaji": "Mimaru Tokyo Asakusa Station",
+      "tel": "+81-3-6231-7183",
+      "fax": ""
+    },
+    {
+      "name": "ホテルマイステイズ岡山",
+      "romaji": "HOTEL MYSTAYS Okayama",
+      "tel": "+81-86-800-1450",
+      "fax": ""
+    },
+    {
+      "name": "ザ町家エビスヤ",
+      "romaji": "Machiya Ebisuya",
+      "tel": "+81-75-365-2333",
+      "fax": ""
+    },
+    {
+      "name": "ホテルクラウンヒルズ上野プレミア",
+      "romaji": "Hotel Crown Hills Ueno Premier",
+      "tel": "+81-3-5846-7100",
+      "fax": ""
+    },
+    {
+      "name": "箱根吟遊",
+      "romaji": "Ginyu Ryokan",
+      "tel": "+81-460-82-3355",
+      "fax": ""
+    },
+    {
+      "name": "四季の湯座敷 武蔵野別館",
+      "romaji": "Musashino Bekkan",
+      "tel": "+81-460-82-4341",
+      "fax": ""
+    },
+    {
+      "name": "アートホテル日暮里 ラングウッド",
+      "romaji": "Art Hotel Nippori Lungwood",
+      "tel": "+81-3-3803-1234",
+      "fax": ""
+    },
+    {
+      "name": "浅草ビューホテル アネックス 六区",
+      "romaji": "Asakusa View Hotel Annex Rokku",
+      "tel": "+81-570-003-235",
+      "fax": ""
+    },
+    {
+      "name": "富士山の見える温泉旅館 大池ホテル",
+      "romaji": "Mt. Fuji View Onsen Ooike Hotel",
+      "tel": "+81-55-572-2563",
+      "fax": ""
+    },
+    {
+      "name": "ホテルリソルトリニティ金沢",
+      "romaji": "Hotel Resol Trinity Kanazawa",
+      "tel": "+81-76-221-9269",
+      "fax": ""
+    },
+    {
+      "name": "ロイヤルパークホテル倉敷",
+      "romaji": "Royal Park Hotel Kurashiki",
+      "tel": "+81-86-436-8500",
+      "fax": "+81-86-436-8501"
+    },
+    {
+      "name": "ホテル法華クラブ広島",
+      "romaji": "Hotel Hokke Club Hiroshima",
+      "tel": "+81-82-248-3371",
+      "fax": "+81-82-248-4799"
+    },
+    {
+      "name": "星のや京都",
+      "romaji": "Hoshinoya Kyoto",
+      "tel": "",
+      "fax": ""
+    },
+    {
+      "name": "ホテルマイステイズプレミア金沢",
+      "romaji": "Hotel Mystays Premier Kanazawa",
+      "tel": "+81-76-290-5255",
+      "fax": ""
+    },
+    {
+      "name": "伊勢パールピアホテル",
+      "romaji": "Ise Pearl Pier Hotel",
+      "tel": "+81-596-26-1111",
+      "fax": ""
+    },
+    {
+      "name": "イビススタイルズ 京都ステーション",
+      "romaji": "Ibis Styles Kyoto Station",
+      "tel": "+81-75-693-8444",
+      "fax": "+81-75-693-8448"
+    },
+    {
+      "name": "亀の井ホテル 那智勝浦",
+      "romaji": "Kamenoi Hotel Nachi Katsuura",
+      "tel": "+81-735-52-0333",
+      "fax": "+81-735-52-3887"
+    },
+    {
+      "name": "天翠茶寮",
+      "romaji": "Tensui Saryo",
+      "tel": "+81-570-062-302",
+      "fax": ""
+    },
+    {
+      "name": "tset",
+      "romaji": "test mt",
+      "tel": "",
+      "fax": ""
+    },
+    {
+      "name": "ベストウェスタンホテルフィーノ東京秋葉原",
+      "romaji": "Best Western Hotel Fino Tokyo Akihabara",
+      "tel": "+81-3-5816-3151",
+      "fax": "+81-3-5816-3152"
+    },
+    {
+      "name": "ホテルフォルツァ大阪なんば道頓堀",
+      "romaji": "Hotel Forza Osaka Namba Dotonbori",
+      "tel": "+81-6-6214-3111",
+      "fax": ""
+    },
+    {
+      "name": "品川プリンスホテル",
+      "romaji": "Shinagawa Prince Hotel",
+      "tel": "+81-3-3440-1111",
+      "fax": ""
+    },
+    {
+      "name": "光臺院",
+      "romaji": "Kodai-In Temple",
+      "tel": "+81-736-56-2037",
+      "fax": ""
+    },
+    {
+      "name": "別格本山 西南院",
+      "romaji": "Sainan-In",
+      "tel": "+81-736-56-2421",
+      "fax": ""
+    },
+    {
+      "name": "ベッセルホテルカンパーナ京都五条",
+      "romaji": "Vessel Hotel Campana Kyoto Gojo",
+      "tel": "+81-75-353-1000",
+      "fax": ""
+    },
+    {
+      "name": "ホテルグレイスリー浅草",
+      "romaji": "Hotel Gracery Asakusa",
+      "tel": "+81-3-6632-8981",
+      "fax": ""
+    },
+    {
+      "name": "箱根小涌園 三河屋旅館",
+      "romaji": "Mikawaya Ryokan",
+      "tel": "+81-465-43-8541",
+      "fax": "+81-465-43-8698"
+    },
+    {
+      "name": "三井ガーデンホテル岡山",
+      "romaji": "Mitsui Garden Hotel Okayama",
+      "tel": "+81-86-235-1131",
+      "fax": ""
+    },
+    {
+      "name": "近露そら",
+      "romaji": "Guest House Chikatsuyu Sora",
+      "tel": "+81-90-5555-4852",
+      "fax": ""
+    },
+    {
+      "name": "三交インGrande東京浜松町",
+      "romaji": "Sanco Inn Grande Tokyo Hamamatsuchō",
+      "tel": "+81-3-6435-9537",
+      "fax": ""
+    },
+    {
+      "name": "古民家宿 星屑",
+      "romaji": "Inn Hoshikuzu",
+      "tel": "+81-87-813-2533",
+      "fax": ""
+    },
+    {
+      "name": "トワ・ヴェール",
+      "romaji": "Guesthouse Toit Vert",
+      "tel": "",
+      "fax": ""
+    },
+    {
+      "name": "ホテルアソシア高山リゾート",
+      "romaji": "Associa Takayama resort",
+      "tel": "+81-577-36-0001",
+      "fax": ""
+    },
+    {
+      "name": "THE GATE HOTEL 雷門 by HULIC",
+      "romaji": "The Gate Hotel Asakusa Kaminarimon By Hulic",
+      "tel": "+81-3-5826-3877",
+      "fax": ""
+    },
+    {
+      "name": "ホテル日航関西空港",
+      "romaji": "Hotel Nikko Kansai Airport",
+      "tel": "+81-72-455-1111",
+      "fax": ""
+    },
+    {
+      "name": "モンブランホテルラフィネ名古屋駅前",
+      "romaji": "Montblanc Hotel Raffine Nagoya Ekimae",
+      "tel": "+81-52-541-1121",
+      "fax": ""
+    },
+    {
+      "name": "つるいむら湿原温泉ホテル",
+      "romaji": "Tsuruimura Shitsugen Onsen Hotel",
+      "tel": "+81-154-65-8840",
+      "fax": ""
+    },
+    {
+      "name": "箱根小涌谷温泉 水の音",
+      "romaji": "Hakone Kowakudani Onsen Ryokan Mizunoto",
+      "tel": "+81-460-82-6011",
+      "fax": ""
+    },
+    {
+      "name": "渋谷ストリームホテル",
+      "romaji": "Shibuya Stream Hotel",
+      "tel": "+81-3-5457-0109",
+      "fax": ""
+    },
+    {
+      "name": "三井ガーデンホテル京都四条",
+      "romaji": "Mitsui Garden Hotel Kyoto Shijo",
+      "tel": "+81-75-361-5531",
+      "fax": ""
+    },
+    {
+      "name": "飛騨高山温泉 ひだホテルプラザ",
+      "romaji": "Hida Hotel Plaza",
+      "tel": "+81-577-33-4600",
+      "fax": ""
+    },
+    {
+      "name": "パークホテル 東京",
+      "romaji": "Park Hotel Tokyo",
+      "tel": "+81-3-6252-1111",
+      "fax": ""
+    },
+    {
+      "name": "柊家",
+      "romaji": "Hiiragiya",
+      "tel": "+81-75-221-1136",
+      "fax": ""
+    },
+    {
+      "name": "四条河原町温泉 空庭テラス京都",
+      "romaji": "Sora Niwa Terrace Kyoto",
+      "tel": "+81-75-352-4000",
+      "fax": ""
+    },
+    {
+      "name": "ザ・ビー 東京 浅草",
+      "romaji": "The B Asakusa",
+      "tel": "+81-3-6284-7057",
+      "fax": ""
+    },
+    {
+      "name": "熊谷寺",
+      "romaji": "Kumagaiji temple",
+      "tel": "+81-736-56-2119",
+      "fax": "+81-736-56-4961"
+    },
+    {
+      "name": "Rakuten STAY VILLA 日光",
+      "romaji": "Rakuten STAY VILLA Nikko",
+      "tel": "+81-50-1750-9719",
+      "fax": ""
+    },
+    {
+      "name": "宿坊 大円院",
+      "romaji": "Daien-In Temple",
+      "tel": "+81-736-56-2009",
+      "fax": "+81-736-56-2971"
+    },
+    {
+      "name": "京王プラザホテル",
+      "romaji": "Keio Plaza Hotel Tokyo",
+      "tel": "+81-3-3344-0111",
+      "fax": ""
+    },
+    {
+      "name": "プロスタイル旅館東京浅草",
+      "romaji": "Prostyle Ryokan Tokyo Asakusa",
+      "tel": "+81-3-5830-6015",
+      "fax": ""
+    },
+    {
+      "name": "ノーガホテル 上野 東京",
+      "romaji": "Nohga Hotel Ueno Tokyo",
+      "tel": "+81-3-5816-0213",
+      "fax": ""
+    },
+    {
+      "name": "渋谷エクセルホテル東急",
+      "romaji": "Shibuya Excel Hotel Tokyu",
+      "tel": "+81-3-5457-0109",
+      "fax": ""
+    },
+    {
+      "name": "変なホテル東京 浜松町",
+      "romaji": "Henn Na Hotel Tokyo Hamamatsucho",
+      "tel": "+81-50-5894-3781",
+      "fax": ""
+    },
+    {
+      "name": "ホテル阪急インターナショナル",
+      "romaji": "Hotel Hankyu International",
+      "tel": "+81-6-6377-2100",
+      "fax": ""
+    },
+    {
+      "name": "小田急ホテルセンチュリーサザンタワー",
+      "romaji": "Odakyu Hotel Century Southern Tower",
+      "tel": "+81-3-5354-0111",
+      "fax": ""
+    },
+    {
+      "name": "宮島グランドホテル 有もと",
+      "romaji": "Miyajima Grand Hotel Arimoto",
+      "tel": "+81-82-944-2411",
+      "fax": ""
+    },
+    {
+      "name": "ホテルグランヴェール旧軽井沢",
+      "romaji": "Hotel Grand Vert",
+      "tel": "+81-267-31-6644",
+      "fax": "+81-267-31-6645"
+    },
+    {
+      "name": "ホテルマイステイズ日暮里",
+      "romaji": "Hotel Mystays Nippori",
+      "tel": "+81-3-3891-2710",
+      "fax": ""
+    },
+    {
+      "name": "ザ ロイヤルパーク キャンバス 名古屋",
+      "romaji": "The Royal Park Canvas Nagoya",
+      "tel": "+81-52-300-1111",
+      "fax": "+81-52-581-9900"
+    },
+    {
+      "name": "渋谷東武ホテル",
+      "romaji": "Shibuya Tobu Hotel",
+      "tel": "+81-3-3476-0111",
+      "fax": ""
+    },
+    {
+      "name": "からくさホテル大阪なんば",
+      "romaji": "Karaksa Hotel Osaka Namba",
+      "tel": "+81-6-6212-6602",
+      "fax": ""
+    },
+    {
+      "name": "Rinn 四季十楽",
+      "romaji": "Rinn Shiki Juraku",
+      "tel": "+81-75-417-0210",
+      "fax": ""
+    },
+    {
+      "name": "カンデオホテルズ 長崎新地中華街",
+      "romaji": "Candeo Hotels Nagasaki Shinchi Chinatown",
+      "tel": "+81-95-829-3300",
+      "fax": ""
+    },
+    {
+      "name": "浅草ビューホテル",
+      "romaji": "Asakusa View Hotel",
+      "tel": "+81-570-003-235",
+      "fax": ""
+    },
+    {
+      "name": "宿坊 普門院",
+      "romaji": "Fumon-In Temple",
+      "tel": "+81-736-56-2224",
+      "fax": ""
+    },
+    {
+      "name": "ライズホテル大阪北新地",
+      "romaji": "The Rise Osaka Kitashinchi",
+      "tel": "+81-6-6458-5400",
+      "fax": ""
+    },
+    {
+      "name": "奥の院 ほてる とく川",
+      "romaji": "Okunoin Hotel Tokugawa",
+      "tel": "+81-288-53-3200",
+      "fax": ""
+    },
+    {
+      "name": "アーバンホテル京都四条プレミアム",
+      "romaji": "Urban Hotel Kyoto-Shijo Premium",
+      "tel": "+81-75-406-1835",
+      "fax": "+81-75-406-1871"
+    },
+    {
+      "name": "オーベルジュ 北の暖暖",
+      "romaji": "Kita No Dandan",
+      "tel": "+81-152-45-5963",
+      "fax": ""
+    },
+    {
+      "name": "変なホテル東京 銀座",
+      "romaji": "Henn Na Hotel Tokyo Ginza",
+      "tel": "+81-50-5894-3771",
+      "fax": ""
+    },
+    {
+      "name": "湯本富士屋ホテル",
+      "romaji": "Yumoto Fujiya Hotel",
+      "tel": "+81-460-85-6111",
+      "fax": ""
+    },
+    {
+      "name": "大阪ビューホテル 本町",
+      "romaji": "Osaka View Hotel Honmachi",
+      "tel": "+81-6-6261-5111",
+      "fax": ""
+    },
+    {
+      "name": "ホテルインターゲート大阪 梅田",
+      "romaji": "HOTEL INTERGATE OSAKA UMEDA",
+      "tel": "+81-6-6344-8800",
+      "fax": ""
+    },
+    {
+      "name": "宿坊 報恩院",
+      "romaji": "Hoon-in",
+      "tel": "+81-736-56-2350",
+      "fax": "+81-736-56-3826"
+    },
+    {
+      "name": "相鉄フレッサイン東京錦糸町",
+      "romaji": "Sotetsu Fresa Inn Tokyo Kinshicho",
+      "tel": "+81-3-5625-4203",
+      "fax": ""
+    },
+    {
+      "name": "リッチモンドホテルプレミア京都四条",
+      "romaji": "Richmond Hotel Premier Kyoto Shijo",
+      "tel": "+81-75-585-5730",
+      "fax": ""
+    },
+    {
+      "name": "ホテルビスタ広島",
+      "romaji": "Hotel Vista Hiroshima",
+      "tel": "+81-82-502-7008",
+      "fax": ""
+    },
+    {
+      "name": "ホテルマンデー浅草",
+      "romaji": "Hotel Monday Asakusa",
+      "tel": "+81-3-5830-8530",
+      "fax": ""
+    },
+    {
+      "name": "宿坊 櫻池院",
+      "romaji": "Yochi-In Temple",
+      "tel": "+81-736-56-2003",
+      "fax": "+81-736-56-3628"
+    },
+    {
+      "name": "ホテルリソルトリニティ京都",
+      "romaji": "Hotel Resol Trinity Kyoto",
+      "tel": "+81-75-211-9269",
+      "fax": ""
+    },
+    {
+      "name": "MIMARU SUITES 京都四条",
+      "romaji": "Mimaru Suites Kyoto Shijo",
+      "tel": "+81-75-366-2490",
+      "fax": ""
+    },
+    {
+      "name": "シタディーンなんば大阪",
+      "romaji": "Citadines Namba Osaka",
+      "tel": "+81-6-6695-7150",
+      "fax": ""
+    },
+    {
+      "name": "ゲストハウスやなぎ屋",
+      "romaji": "Guesthouse Yanagiya",
+      "tel": "+81-80-6184-3170",
+      "fax": ""
+    },
+    {
+      "name": "品川プリンスホテル Nタワー",
+      "romaji": "Shinagawa Prince Hotel N Tower",
+      "tel": "+81-3-3440-1111",
+      "fax": ""
+    },
+    {
+      "name": "スパーキーズハウス",
+      "romaji": "Sparky'S House",
+      "tel": "+81-87-802-4384",
+      "fax": ""
+    },
+    {
+      "name": "ホテルマイステイズプレミア成田",
+      "romaji": "Hotel Mystays Premier Narita",
+      "tel": "+81-476-33-1661",
+      "fax": ""
+    },
+    {
+      "name": "亀の井ホテル 紀伊田辺",
+      "romaji": "Kamenoi Hotel Kii-Tanabe",
+      "tel": "+81-739-24-2900",
+      "fax": ""
+    },
+    {
+      "name": "ザ・プリンス パークタワー東京",
+      "romaji": "The Prince Park Tower Tokyo",
+      "tel": "+81-3-5400-1111",
+      "fax": ""
+    },
+    {
+      "name": "ベネッセハウス",
+      "romaji": "Benesse House",
+      "tel": "+81-87-892-3223",
+      "fax": ""
+    },
+    {
+      "name": "ホテル日航金沢",
+      "romaji": "Hotel Nikko Kanazawa",
+      "tel": "+81-76-234-1111",
+      "fax": ""
+    },
+    {
+      "name": "いろはグランホテル松本駅前",
+      "romaji": "Iroha Grand Hotel Matsumoto Ekimae",
+      "tel": "+81-263-87-0168",
+      "fax": ""
+    },
+    {
+      "name": "ホテルビスタプレミオ京都 和邸",
+      "romaji": "Hotel Vista Premio Kyoto Nagomitei",
+      "tel": "+81-75-252-1666",
+      "fax": ""
+    },
+    {
+      "name": "白木屋",
+      "romaji": "Magome Shirokiya",
+      "tel": "+81-573-69-2035",
+      "fax": "+81-573-69-2455"
+    },
+    {
+      "name": "庭のホテル 東京",
+      "romaji": "Hotel Niwa Tokyo",
+      "tel": "+81-3-3293-0028",
+      "fax": ""
+    },
+    {
+      "name": "静鉄ホテルプレジオ 京都烏丸御池",
+      "romaji": "Shizutetsu Hotel Prezio Kyoto Karasuma Oike",
+      "tel": "+81-75-741-6071",
+      "fax": ""
+    },
+    {
+      "name": "ホテル日航成田",
+      "romaji": "Hotel Nikko Narita",
+      "tel": "+81-476-32-0032",
+      "fax": ""
+    },
+    {
+      "name": "KOKO HOTEL Premier 熊本",
+      "romaji": "Koko Hotel Premier Kumamoto",
+      "tel": "+81-96-355-6700",
+      "fax": ""
+    },
+    {
+      "name": "中津川温泉 ホテル花更紗",
+      "romaji": "Nakatsugawa Onsen Hotel Hanasarasa",
+      "tel": "+81-573-69-5111",
+      "fax": "+81-573-69-5002"
+    },
+    {
+      "name": "HOTEL WOOD 高山",
+      "romaji": "Hotel Wood Takayama",
+      "tel": "+81-577-62-8888",
+      "fax": ""
+    },
+    {
+      "name": "ホテルサンルートプラザ新宿",
+      "romaji": "Hotel Sunroute Plaza Shinjuku",
+      "tel": "+81-3-3375-3211",
+      "fax": ""
+    },
+    {
+      "name": "ANAクラウンプラザホテル 広島",
+      "romaji": "Ana Crowne Plaza Hiroshima, An Ihg Hotel",
+      "tel": "+81-82-241-1111",
+      "fax": ""
+    },
+    {
+      "name": "ホテルウィングインターナショナル飛騨高山",
+      "romaji": "Hotel Wing International Hida Takayama",
+      "tel": "+81-577-35-1300",
+      "fax": ""
+    },
+    {
+      "name": "アノホテル浅草",
+      "romaji": "ano Hotel asakusa",
+      "tel": "+81-3-6658-5936",
+      "fax": ""
+    },
+    {
+      "name": "ホテルモントレ グラスミア大阪",
+      "romaji": "Hotel Monterey Grasmere Osaka",
+      "tel": "+81-6-6645-7111",
+      "fax": ""
+    },
+    {
+      "name": "東横INN博多駅バスターミナル前",
+      "romaji": "Toyoko Inn Hakata-eki Bus Terminal Mae",
+      "tel": "+81-92-437-1045",
+      "fax": ""
+    },
+    {
+      "name": "スパホテルアルピナ飛騨高山",
+      "romaji": "Spa Hotel Alpina Hidatakayama",
+      "tel": "+81-577-33-0033",
+      "fax": ""
+    },
+    {
+      "name": "レムプラス銀座",
+      "romaji": "Remm Plus Ginza",
+      "tel": "+81-3-6866-0606",
+      "fax": ""
+    },
+    {
+      "name": "ファーイーストビレッジホテル東京有明",
+      "romaji": "Far East Village Hotel Ariake Tokyo",
+      "tel": "+81-3-6271-0337",
+      "fax": ""
+    },
+    {
+      "name": "富士ビューホテル",
+      "romaji": "Fuji View Hotel",
+      "tel": "+81-55-583-2211",
+      "fax": ""
+    },
+    {
+      "name": "ベッセルホテルカンパーナ名古屋",
+      "romaji": "Vessel Hotel Campana Nagoya",
+      "tel": "+81-52-569-0011",
+      "fax": ""
+    },
+    {
+      "name": "レム秋葉原",
+      "romaji": "Remm Akihabara",
+      "tel": "+81-3-3254-0606",
+      "fax": "+81-3-3596-7791"
+    },
+    {
+      "name": "ホテルビスタプレミオ京都［河原町通］",
+      "romaji": "Hotel Vista Premio Kyoto Kawaramachi St.",
+      "tel": "+81-75-256-5888",
+      "fax": ""
+    },
+    {
+      "name": "ホテルハーヴェスト伊東",
+      "romaji": "Tokyu Harvest Club Ito",
+      "tel": "+81-55-738-6373",
+      "fax": ""
+    },
+    {
+      "name": "相鉄フレッサイン 京都清水五条",
+      "romaji": "Sotetsu Fresa Inn Kyoto-Kiyomizu Gojo",
+      "tel": "+81-75-741-6203",
+      "fax": ""
+    },
+    {
+      "name": "品川プリンスホテル (アネックスタワー)",
+      "romaji": "Shinagawa Prince Hotel (Annex Tower)",
+      "tel": "+81-3-3440-1111",
+      "fax": ""
+    },
+    {
+      "name": "コンフォートホテル大阪心斎橋",
+      "romaji": "Comfort Hotel Osaka Shinsaibashi",
+      "tel": "+81-6-6258-3111",
+      "fax": ""
+    },
+    {
+      "name": "コンラッド大阪",
+      "romaji": "Osaka Conrad",
+      "tel": "+81-6-6222-0111",
+      "fax": ""
+    },
+    {
+      "name": "まち宿 壱龍",
+      "romaji": "MACHIYADO ICHIRYU",
+      "tel": "+81-577-32-0448",
+      "fax": ""
+    },
+    {
+      "name": "道後温泉 八千代",
+      "romaji": "Dougou Onsen Yachiyo",
+      "tel": "+81-89-931-7111",
+      "fax": ""
+    },
+    {
+      "name": "からくさホテルカラーズ東京八重洲",
+      "romaji": "Karaksa Hotel Colors Tokyo Yaesu",
+      "tel": "+81-3-6880-6602",
+      "fax": ""
+    },
+    {
+      "name": "三井ガーデンホテル 広島",
+      "romaji": "Mitsui Garden Hotel Hiroshima",
+      "tel": "+81-82-240-1131",
+      "fax": ""
+    },
+    {
+      "name": "城崎温泉 炭平別邸 季ト時",
+      "romaji": "Sumihei Bettei Tokitotoki",
+      "tel": "+81-120-118-778",
+      "fax": ""
+    },
+    {
+      "name": "ドーミーイン岡山",
+      "romaji": "Dormy Inn Okayama Natural Hot Spring",
+      "tel": "+81-86-233-5489",
+      "fax": ""
+    },
+    {
+      "name": "櫻の園",
+      "romaji": "Sakura No Sono",
+      "tel": "+81-90-9625-0402",
+      "fax": ""
+    },
+    {
+      "name": "日の出旅館",
+      "romaji": "Hinoderyokan",
+      "tel": "+81-596-28-2954",
+      "fax": "+81-596-28-0456"
+    },
+    {
+      "name": "からくさホテル TOKYO STATION",
+      "romaji": "Karaksa Hotel Tokyo Station",
+      "tel": "+81-3-3243-6602",
+      "fax": ""
+    },
+    {
+      "name": "ホテルリングス京都",
+      "romaji": "Hotel Rings Kyoto",
+      "tel": "+81-75-746-2920",
+      "fax": ""
+    },
+    {
+      "name": "箱根水明荘",
+      "romaji": "Hakone Suimeiso",
+      "tel": "+81-460-85-5381",
+      "fax": "+81-460-85-6628"
+    },
+    {
+      "name": "松本ホテル花月",
+      "romaji": "Matsumoto Hotel Kagetsu",
+      "tel": "+81-263-32-0114",
+      "fax": ""
+    },
+    {
+      "name": "グッド ネイチャー ホテル キョウト",
+      "romaji": "Good Nature Hotel Kyoto",
+      "tel": "+81-75-352-6730",
+      "fax": ""
+    },
+    {
+      "name": "ホテル日航プリンセス京都",
+      "romaji": "Hotel Nikko Princess Kyoto",
+      "tel": "+81-75-342-2111",
+      "fax": ""
+    },
+    {
+      "name": "RELAX HOTEL 高山ステーション",
+      "romaji": "Relax Hotel Takayama Station",
+      "tel": "+81-577-57-5688",
+      "fax": ""
+    },
+    {
+      "name": "Iori Tenman",
+      "romaji": "Iori Tenman",
+      "tel": "+81-80-7715-8840",
+      "fax": ""
+    },
+    {
+      "name": "大阪エクセルホテル東急",
+      "romaji": "Osaka Excel Hotel Tokyu",
+      "tel": "+81-6-6252-0109",
+      "fax": ""
+    },
+    {
+      "name": "変なホテル",
+      "romaji": "Henna Hotel Osaka Namba",
+      "tel": "+81-50-5576-8355",
+      "fax": ""
+    },
+    {
+      "name": "ダイワロイネットホテル金沢駅西口",
+      "romaji": "Daiwa Roynet Hotel Kanazawa Station West Entrance",
+      "tel": "+81-76-224-5280",
+      "fax": ""
+    },
+    {
+      "name": "ホテルミュッセ 京都四条河原町名鉄",
+      "romaji": "Hotel Musse Kyoto Shijo Kawaramachi Meitetsu",
+      "tel": "+81-75-241-3535",
+      "fax": ""
+    },
+    {
+      "name": "ホテルマイステイズ広島 平和公園前",
+      "romaji": "Hotel Mystays Hiroshima Peace Park",
+      "tel": "+81-82-536-2031",
+      "fax": ""
+    },
+    {
+      "name": "SOKI KANAZAWA",
+      "romaji": "Soki Kanazawa",
+      "tel": "+81-76-225-8360",
+      "fax": "+81-76-210-0290"
+    },
+    {
+      "name": "渡瀬温泉ホテルやまゆり",
+      "romaji": "Watarase Onsen Hotel Yamayuri",
+      "tel": "+81-735-42-1185",
+      "fax": ""
+    },
+    {
+      "name": "ザ ロイヤルパークホテル 京都三条",
+      "romaji": "The Royal Park Hotel Kyoto Sanjo",
+      "tel": "+81-75-241-1111",
+      "fax": ""
+    },
+    {
+      "name": "Haru",
+      "romaji": "Haru",
+      "tel": "+81-50-5444-6620",
+      "fax": ""
+    },
+    {
+      "name": "箱根・芦ノ湖 はなをり",
+      "romaji": "Hanaori",
+      "tel": "+81-460-83-8739",
+      "fax": ""
+    },
+    {
+      "name": "あづみの湯 御宿 野乃 松本",
+      "romaji": "Natural Hot Spring Azumi No Yu Onyado Nono Matsumoto",
+      "tel": "+81-263-37-5489",
+      "fax": ""
+    },
+    {
+      "name": "レム東京京橋",
+      "romaji": "Remm Tokyo Kyobashi",
+      "tel": "+81-3-6843-0606",
+      "fax": ""
+    },
+    {
+      "name": "ホテルリズベリオ赤坂",
+      "romaji": "Hotel Risveglio Akasaka",
+      "tel": "+81-3-5549-2150",
+      "fax": ""
+    },
+    {
+      "name": "いやしの宿楽々花",
+      "romaji": "Lalaca",
+      "tel": "+81-460-86-0777",
+      "fax": ""
+    },
+    {
+      "name": "KIRO 広島 by THE SHARE HOTELS",
+      "romaji": "Kiro Hotel Hiroshima",
+      "tel": "+81-82-545-9160",
+      "fax": ""
+    },
+    {
+      "name": "Nazuna 京都 御所",
+      "romaji": "Nazuna Kyoto Gosho",
+      "tel": "+81-75-708-6870",
+      "fax": ""
+    },
+    {
+      "name": "ラグジュアリーホテル そわか",
+      "romaji": "Luxury Hotel Sowaka",
+      "tel": "+81-75-541-5323",
+      "fax": "+81-75-541-5327"
+    },
+    {
+      "name": "ホテルアベストグランデ京都清水",
+      "romaji": "Hotel Abest Grande Kyoto Kiyomizu",
+      "tel": "+81-75-532-3131",
+      "fax": ""
+    },
+    {
+      "name": "対橋楼",
+      "romaji": "Taikyourou",
+      "tel": "+81-772-22-2101",
+      "fax": ""
+    },
+    {
+      "name": "FAV LUX 飛騨高山",
+      "romaji": "FAV LUX Hida Takayama",
+      "tel": "+81-50-1794-3945",
+      "fax": ""
+    },
+    {
+      "name": "ホテルリソル 京都 河原町三条",
+      "romaji": "Hotel Resol Kyoto Kawaramachi Sanjo",
+      "tel": "+81-75-255-9269",
+      "fax": ""
+    },
+    {
+      "name": "万清楼",
+      "romaji": "Manseiro",
+      "tel": "+81-735-52-0033",
+      "fax": ""
+    },
+    {
+      "name": "枳殻荘",
+      "romaji": "Yadoya Kikokuso",
+      "tel": "+81-75-371-7781",
+      "fax": ""
+    },
+    {
+      "name": "ダブルツリー by ヒルトン京都東山",
+      "romaji": "Doubletree By Hilton Kyoto Higashiyama",
+      "tel": "+81-75-533-7070",
+      "fax": ""
+    },
+    {
+      "name": "ザ ノット 東京新宿",
+      "romaji": "The Knot Shinjuku",
+      "tel": "+81-3-3375-6511",
+      "fax": ""
+    },
+    {
+      "name": "箱根小涌園 天悠",
+      "romaji": "Hakone Kowakien Ten-Yu",
+      "tel": "+81-465-20-0260",
+      "fax": ""
+    },
+    {
+      "name": "マウントビュー箱根",
+      "romaji": "Mount View Hakone",
+      "tel": "+81-460-84-6331",
+      "fax": ""
+    },
+    {
+      "name": "宿坊 無量光院",
+      "romaji": "Muryoko-In Temple",
+      "tel": "+81-736-56-2104",
+      "fax": "+81-736-56-4555"
+    },
+    {
+      "name": "ホテルインターゲート広島",
+      "romaji": "Hotel Intergate Hiroshima",
+      "tel": "+81-82-224-6110",
+      "fax": ""
+    },
+    {
+      "name": "JR九州ホテル ブラッサム新宿",
+      "romaji": "Jr Kyushu Hotel Blossom Shinjuku",
+      "tel": "+81-3-5333-8687",
+      "fax": ""
+    },
+    {
+      "name": "イビススタイルズ東京銀座",
+      "romaji": "Ibis Styles Tokyo Ginza",
+      "tel": "+81-3-5537-3133",
+      "fax": ""
+    },
+    {
+      "name": "グランドニッコー東京 台場",
+      "romaji": "Grand Nikko Tokyo Daiba",
+      "tel": "+81-3-5500-6711",
+      "fax": ""
+    },
+    {
+      "name": "三井ガーデンホテル上野",
+      "romaji": "Mitsui Garden Hotel Ueno",
+      "tel": "+81-3-3839-1131",
+      "fax": ""
+    },
+    {
+      "name": "水羽荘",
+      "romaji": "Ryosaino Oyado Mizuhaso",
+      "tel": "+81-82-944-0173",
+      "fax": ""
+    },
+    {
+      "name": "ホテル・アンドルームス新大阪",
+      "romaji": "Hotel Androoms Shin-Osaka",
+      "tel": "+81-6-4807-5111",
+      "fax": ""
+    }
+  ],
+  "senders": [
+    {
+      "romaji": "MIZUSAKO Reina",
+      "kanji": "水迫 伶菜"
+    },
+    {
+      "romaji": "HAMASAKI Emiko",
+      "kanji": "濱﨑 英美子"
+    }
+  ]
+}
