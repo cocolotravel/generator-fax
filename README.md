@@ -1,6 +1,6 @@
 # generator-fax
 
-Internal FAX tools for **Cocolo Travel** (ここロトラベル合同会社). Static, client-side web pages used to generate hotel reservation-request faxes and free-form fax documents as PDF or `.docx`, no backend or build step required.
+Internal FAX tools for **Cocolo Travel** (ココロトラベル合同会社). Static, client-side web pages used to generate hotel reservation-request faxes and free-form fax documents as PDF or `.docx`, no backend or build step required.
 
 ## Pages
 

@@ -4,21 +4,32 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>404 — Page Not Found | Cocolo Travel</title>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500&family=Noto+Serif+JP:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+JP:wght@300;400;500&family=Noto+Serif+JP:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://assets.cocolotravel.com/brand/tokens.css">
 <style>
+  @font-face {
+    font-family: "Roslindale Variable";
+    src: url("https://assets.cocolotravel.com/fonts/RoslindaleVariable[opsz,slnt,wdth,wght].woff2") format("woff2-variations");
+    font-weight: 200 900;
+    font-stretch: 75% 125%;
+    font-display: swap;
+  }
+
   :root {
-    --ink: #1a1714;
-    --ink-light: #6b6560;
-    --ink-faint: #c8c2bc;
-    --paper: #f5f2ee;
-    --paper-dark: #ebe6e0;
-    --accent: #c0392b;
+    --ink: var(--color-text-primary);
+    --ink-light: rgba(27, 56, 72, 0.6); /* Sumi-60: sanctioned opacity derivative of Sumi */
+    --ink-faint: var(--color-brand-kodama);
+    --paper: var(--color-background-primary);
+    --paper-dark: var(--color-background-secondary);
+    --accent: var(--color-brand-kin);
+    --font-display: var(--font-style-roslindale), 'Noto Serif JP', serif;
+    --font-body: var(--font-style-inter), 'Noto Sans JP', sans-serif;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
   body {
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: var(--font-body);
     background: var(--paper);
     color: var(--ink);
     min-height: 100vh;
@@ -35,23 +46,21 @@
   }
 
   .logo-mark {
-    width: 32px; height: 32px;
-    background: var(--accent);
-    border-radius: 4px;
+    width: 30px; height: 30px;
     display: flex; align-items: center; justify-content: center;
-    font-family: 'Noto Serif JP', serif;
-    font-size: 15px; font-weight: 600; color: white;
     flex-shrink: 0; text-decoration: none;
   }
 
+  .logo-mark img { width: 100%; height: 100%; }
+
   .logo-text {
     font-size: 12px; font-weight: 300;
-    letter-spacing: 0.1em; color: #a09890;
+    letter-spacing: 0.1em; color: rgba(255, 254, 245, 0.55);
   }
 
   .logo-text strong {
-    display: block; font-size: 14px; font-weight: 500;
-    letter-spacing: 0.04em; color: #f5f2ee;
+    display: block; font-family: var(--font-display); font-size: 15px; font-weight: 600;
+    letter-spacing: 0.02em; color: var(--paper);
   }
 
   main {
@@ -65,17 +74,17 @@
   }
 
   .kanji {
-    font-family: 'Noto Serif JP', serif;
+    font-family: var(--font-body);
     font-size: 11px;
     font-weight: 400;
     letter-spacing: 0.2em;
-    color: var(--ink-faint);
+    color: var(--ink-light);
     text-transform: uppercase;
     margin-bottom: 20px;
   }
 
   .number {
-    font-family: 'Noto Serif JP', serif;
+    font-family: var(--font-display);
     font-size: 96px;
     font-weight: 600;
     color: var(--ink);
@@ -119,16 +128,16 @@
     gap: 8px;
     padding: 11px 24px;
     background: var(--ink);
-    color: #f5f2ee;
+    color: var(--paper);
     text-decoration: none;
     border-radius: 4px;
     font-size: 13px;
     font-weight: 500;
     letter-spacing: 0.04em;
-    transition: background 0.15s;
+    transition: filter 0.15s;
   }
 
-  .back-link:hover { background: #2c2826; }
+  .back-link:hover { filter: brightness(1.25); }
 
   footer {
     padding: 20px 36px;
@@ -140,22 +149,24 @@
 
   .footer-left {
     font-size: 11px;
-    color: var(--ink-faint);
+    color: var(--ink-light);
   }
 
   .footer-right {
     font-size: 11px;
-    color: var(--ink-faint);
+    color: var(--ink-light);
   }
 </style>
 </head>
 <body>
 
 <header>
-  <div class="logo-mark">C</div>
+  <a class="logo-mark" href="/">
+    <img src="https://assets.cocolotravel.com/logos/svg/logo_cloud_logo_full_washi.svg" alt="Cocolo Travel">
+  </a>
   <div class="logo-text">
     <strong>Cocolo Travel</strong>
-    ここロトラベル合同会社
+    ココロトラベル合同会社
   </div>
 </header>
 

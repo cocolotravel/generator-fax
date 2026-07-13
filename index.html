@@ -4,24 +4,34 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Cocolo Travel — FAX Tools</title>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Noto+Serif+JP:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+JP:wght@300;400;500;700&family=Noto+Serif+JP:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://assets.cocolotravel.com/brand/tokens.css">
 <style>
+  @font-face {
+    font-family: "Roslindale Variable";
+    src: url("https://assets.cocolotravel.com/fonts/RoslindaleVariable[opsz,slnt,wdth,wght].woff2") format("woff2-variations");
+    font-weight: 200 900;
+    font-stretch: 75% 125%;
+    font-display: swap;
+  }
+
   :root {
-    --ink: #1a1714;
-    --ink-light: #6b6560;
-    --ink-faint: #c8c2bc;
-    --paper: #f5f2ee;
-    --paper-dark: #ebe6e0;
-    --accent: #c0392b;
-    --accent-dark: #922b21;
+    --ink: var(--color-text-primary);
+    --ink-light: rgba(27, 56, 72, 0.6); /* Sumi-60: sanctioned opacity derivative of Sumi */
+    --ink-faint: var(--color-brand-kodama);
+    --paper: var(--color-background-primary);
+    --paper-dark: var(--color-background-secondary);
+    --accent: var(--color-brand-kin);
+    --font-display: var(--font-style-roslindale), 'Noto Serif JP', serif;
+    --font-body: var(--font-style-inter), 'Noto Sans JP', sans-serif;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
   body {
-    font-family: 'Noto Sans JP', sans-serif;
-    background: var(--ink);
-    color: var(--paper);
+    font-family: var(--font-body);
+    background: var(--paper);
+    color: var(--ink);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -29,32 +39,30 @@
 
   /* ── HEADER ── */
   header {
+    background: var(--ink);
     padding: 20px 40px;
     display: flex;
     align-items: center;
     gap: 14px;
-    border-bottom: 1px solid rgba(255,255,255,0.07);
     flex-shrink: 0;
   }
 
   .logo-mark {
     width: 34px; height: 34px;
-    background: var(--accent);
-    border-radius: 4px;
     display: flex; align-items: center; justify-content: center;
-    font-family: 'Noto Serif JP', serif;
-    font-size: 16px; font-weight: 600; color: white;
     flex-shrink: 0;
   }
 
+  .logo-mark img { width: 100%; height: 100%; }
+
   .logo-text {
     font-size: 12px; font-weight: 300;
-    letter-spacing: 0.1em; color: #706b66;
+    letter-spacing: 0.1em; color: rgba(255, 254, 245, 0.55);
   }
 
   .logo-text strong {
-    display: block; font-size: 15px; font-weight: 500;
-    letter-spacing: 0.04em; color: var(--paper);
+    display: block; font-family: var(--font-display); font-size: 16px; font-weight: 600;
+    letter-spacing: 0.02em; color: var(--paper);
   }
 
   /* ── SPLIT ── */
@@ -79,11 +87,11 @@
   }
 
   .panel:first-child {
-    border-right: 1px solid rgba(255,255,255,0.08);
+    border-right: 1px solid var(--paper-dark);
   }
 
   .panel:hover {
-    background: rgba(255,255,255,0.04);
+    background: var(--paper-dark);
   }
 
   .panel:hover .panel-arrow {
@@ -97,10 +105,10 @@
 
   /* Number */
   .panel-number {
-    font-family: 'Noto Serif JP', serif;
+    font-family: var(--font-display);
     font-size: 80px;
     font-weight: 600;
-    color: rgba(255,255,255,0.06);
+    color: rgba(27, 56, 72, 0.07);
     line-height: 1;
     margin-bottom: 32px;
     transition: color 0.2s;
@@ -116,7 +124,7 @@
 
   /* Title */
   .panel-title-ja {
-    font-family: 'Noto Serif JP', serif;
+    font-family: var(--font-display);
     font-size: 20px;
     font-weight: 600;
     letter-spacing: 0.04em;
@@ -129,7 +137,7 @@
     font-weight: 300;
     letter-spacing: 0.18em;
     text-transform: uppercase;
-    color: var(--ink-faint);
+    color: var(--ink-light);
     margin-bottom: 24px;
     text-align: center;
   }
@@ -138,7 +146,7 @@
   .panel-desc {
     font-size: 13px;
     font-weight: 300;
-    color: #8a8480;
+    color: var(--ink-light);
     line-height: 1.9;
     text-align: center;
     max-width: 280px;
@@ -161,14 +169,14 @@
     text-transform: uppercase;
     padding: 4px 10px;
     border-radius: 3px;
-    border: 1px solid rgba(255,255,255,0.12);
-    color: rgba(255,255,255,0.5);
+    border: 1px solid var(--ink-faint);
+    color: var(--ink-light);
   }
 
   .tag-accent {
-    border-color: rgba(192,57,43,0.5);
-    color: rgba(192,57,43,0.8);
-    background: rgba(192,57,43,0.06);
+    border-color: rgba(255, 201, 22, 0.6);
+    color: var(--ink);
+    background: rgba(255, 201, 22, 0.14);
   }
 
   /* CTA */
@@ -180,12 +188,12 @@
     font-weight: 500;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    color: rgba(255,255,255,0.3);
+    color: var(--ink-light);
   }
 
   .panel-arrow {
     transition: transform 0.2s, opacity 0.2s;
-    opacity: 0.4;
+    opacity: 0.6;
   }
 
   /* Vertical divider label */
@@ -194,14 +202,14 @@
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    background: var(--ink);
-    border: 1px solid rgba(255,255,255,0.1);
+    background: var(--paper);
+    border: 1px solid var(--paper-dark);
     border-radius: 50%;
     width: 40px; height: 40px;
     display: flex; align-items: center; justify-content: center;
     font-size: 11px;
     font-weight: 500;
-    color: var(--ink-faint);
+    color: var(--ink-light);
     letter-spacing: 0.05em;
     pointer-events: none;
     z-index: 10;
@@ -210,7 +218,7 @@
   /* ── FOOTER ── */
   footer {
     padding: 16px 40px;
-    border-top: 1px solid rgba(255,255,255,0.07);
+    border-top: 1px solid var(--paper-dark);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -219,18 +227,18 @@
 
   .footer-left {
     font-size: 11px;
-    color: #4a4540;
+    color: var(--ink-light);
   }
 
   .footer-right {
     font-size: 11px;
-    color: #4a4540;
+    color: var(--ink-light);
   }
 
   /* Responsive */
   @media (max-width: 700px) {
     .split { grid-template-columns: 1fr; }
-    .panel:first-child { border-right: none; border-bottom: 1px solid rgba(255,255,255,0.08); }
+    .panel:first-child { border-right: none; border-bottom: 1px solid var(--paper-dark); }
     .split-label { display: none; }
     .panel-number { font-size: 56px; margin-bottom: 20px; }
   }
@@ -239,7 +247,9 @@
 <body>
 
 <header>
-  <div class="logo-mark">C</div>
+  <div class="logo-mark">
+    <img src="https://assets.cocolotravel.com/logos/svg/logo_cloud_logo_full_washi.svg" alt="Cocolo Travel">
+  </div>
   <div class="logo-text">
     <strong>Cocolo Travel</strong>
     社内 FAX ツール
@@ -298,7 +308,7 @@
 </div>
 
 <footer>
-  <div class="footer-left">ここロトラベル合同会社 — 社内ツール</div>
+  <div class="footer-left">ココロトラベル合同会社 — 社内ツール</div>
   <div class="footer-right">fax.cocolotravel.com</div>
 </footer>
 
